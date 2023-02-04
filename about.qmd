@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+这个网站是作为一个经济学硕士/predoc申请的信息集合，主要包括申请项目以及学者等人的申请建议。同时包括一些在经济学领域相关的线上资源。
+
+
+该网站是由[Quarto](https://quarto.org/)环境下创建，部署在[Netlify](https://app.netlify.com/)中。
+
+s

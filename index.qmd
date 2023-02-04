@@ -1,0 +1,72 @@
+---
+title: "Applying Resources"
+toc: true
+---
+
+
+
+
+## Master
+这里主要介绍的一些跳板硕士项目，包括费用、跳板力度、经济学研究领域等信息。
+
+### 英美项目
+
+```{r,echo=FALSE}
+library(knitr)
+library(readxl)
+df1<-readxl::read_xlsx("/Users/a182501/quarto/pro1.xlsx")
+kable(df1)
+```
+
+### 欧陆项目
+```{r,echo=FALSE}
+df2<-readxl::read_xlsx("/Users/a182501/quarto/pro2.xlsx")
+kable(df2)
+```
+
+
+### 亚洲澳洲项目（香港新加坡日本韩国澳大利亚新西兰）
+```{r,echo=FALSE}
+df3<-readxl::read_xlsx("/Users/a182501/quarto/pro3.xlsx")
+kable(df3)
+
+```
+
+
+
+## Pre-Doc Resource
+
+- <https://zahrathabet.com/resources.html>: This is a website of Predoctoral Research Fellow at SIEPR. She collect some Pre-Doc Advice and Resources in United States. 
+
+- <https://predoc.org/>
+
+- <https://raguide.github.io/>Econ RA guide, includes RAships Job requirement and How to apply etc.
+
+
+- <https://weibo.com/1296072501/Mcdg9hzuJ#comment> predoc 申请建议
+
+-  The RA Philosphy <https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf> by Gentzkow and Shapiro.
+
+- The Prof.Ahmed 在推上讨论做pre-doc还是直接申，主要还是看个人的准备情况，同时现有的一些pre-doc并没有很好的signal to committees。
+
+![](twitter.jpg){width=300}
+
+
+## Advice
+
+- <https://athey.people.stanford.edu/professional-advice>: 来自于athey的本科生申请建议
+
+- <https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view>: 来自于Alvin Christian的建议
+
+
+- <https://yiqingxu.org/articles/20170826_phd_application.pdf> 斯坦福大学政治学系助理教授徐轶⻘《如何申请北美社科类博⼠项目？》
+
+- [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485437&idx=1&sn=d892ef29a0375be9f066e99738c40bf6&chksm=e85f0f52df2886447a9e114ed8a19e6ba688b187a7bad3f583801f2cef9d70ac925d7bc6b04d&scene=126&sessionid=1602211100&key=519b8bbaea533f9410e9ab5755442554afde47eaf6e3c03a786395a8370b5f5e485c27c9b6188618ea23f38f44bfa303cffd0960b84be99e67ccb7f854c9ada33de60cd7589d901e83c84eeb8521db1bf5e31aa7ff388b559ff9a103d5227a7d28e380400b1625afb2623db0128f3a8812d9c8ba27fb6aed899d121c671c33bf&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AocIPieY%2BnNsK%2F54xgfHJ5M%3D&pass_ticket=M3MNN44LbcfByrBjDeoNbZgH3NIITHgqkFUlF4%2BqqAXEMJ8gy1gl4iGCWuQ7ixLP&wx_header=0): 申请建议集合
+
+
+## Others
+- <http://marcfbellemare.com/wordpress/the-books-that-have-changed-my-thinking>: Prof.Bellemare(University of Minnesota)'s Suggested Reading.
+
+
+
+

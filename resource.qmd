@@ -1,0 +1,131 @@
+---
+title: "Econ Resources"
+toc: true
+---
+
+
+## Books and Courses
+### Causal Inference and econometric
+
+- [Causal Inference](https://mixtape.scunning.com/): written by Scott.
+- [Data Analysis for Economics](https://jiamingmao.github.io/data-analysis/): written by jiamingmao(XMU). it offers a unified introduction to the principles and methods of statistical modeling and causal inference.
+
+- [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
+
+- Applied Empirical Methods
+<https://github.com/paulgp/applied-methods-phd>: designed for graduate students learning econometric methods using empirical research.
+
+- [STAT 286/GOV 203](https://imai.fas.harvard.edu/teaching/cause.html?continueFlag=24735ab10d4dd300e3c62d40afafa8b0)
+
+- [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introFinRbook/)
+
+
+### Math and Statistics
+
+- [STAT545](https://stat545.com/):Data wrangling, exploration, and analysis with R
+
+- <https://www.statlearning.com/>The classic book: An Introduction to Statistical Learning.
+
+- [Statistics Inference](https://bookdown.org/mpfoley1973/statistics/): Data Analyst Handbook
+
+- [Bayesian Stats](https://storopoli.github.io/Bayesian-Julia/): using Julia to apply Bayesian Statistics.
+
+- [Applied Nonparametric and Modern Statistics](https://www.biostat.jhsph.edu/~ririzarr/Teaching/754/)
+
+- [应用随机过程](https://www.math.pku.edu.cn/teachers/lidf/course/stochproc/stochprocnotes/html/_book/index.html)：介绍随机过程的基本概念及鞅和在金融中的应用。
+
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/): the classic book in time series analysis.
+
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+
+- **statistical-rethinking** <https://xcelab.net/rm/statistical-rethinking/> a Bayesian Course with R and Stan.
+
+
+### Data Analysis
+
+- [Python for Data Analysis](https://wesmckinney.com/book/)
+
+- [R语言数据科学导论](https://ds-r.leovan.tech/)
+
+- [JavaScript for R](https://book.javascript-for-r.com/)
+
+- [Julia Data Science](https://juliadatascience.io/)
+
+- [Using Spatial Data with R](https://cengel.github.io/R-spatial/index.html): a quick introduction to spatial data with R.
+
+- [Spatial Data Science](https://r-spatial.org/book/): Getting a deeper learning in Spatial Data Science.
+
+- [Computational Economics for PhDs](https://floswald.github.io/NumericalMethods/#replication_resources): using Julia in the field of economics is getting more and more popular. written by [Florian Oswald](https://floswald.github.io/). 
+
+
+## Data
+
+- <https://ejd.econ.mathematik.uni-ulm.de/>: the newest economic articles data
+
+
+
+## Resouce Set
+
+一些经济学学者的个人网站的资源集合，存在部分套娃
+
+- <https://www.datanecon.org/links/research>: 一位TUM(Technical University of Munich) Lecturer的资源集合
+
+- <https://jblevins.org/notes/>: jblevins's note
+
+
+- <https://weisi.website/resources/>: 上海科技大学助理教授司唯的资源集合
+
+- <http://www.ryanbedwards.com/resources>: the resources is mostly for students.
+
+- <https://sites.google.com/site/mkudamatsu/tips4economists>: Tips 4 Economists
+
+## Research
+
+- <https://gregmankiw.blogspot.com/search?q=advice>: 哈佛大学Greg Mankiw 的研究建议
+
+- <https://blogs.ubc.ca/khead/research/research-advice>: collected research advice by Keith Head.
+
+- <https://sites.google.com/site/mounirkaradja/resources>: Tips and resources for research
+
+- <https://sites.google.com/view/kleintob/ph-d-students>: Academic writing, communicating and many other thing.
+
+## Personal Website
+
+- <http://www.liuyanecon.com/misc/>: 武汉大学刘岩副教授的非学术写作和银行业数据（暂时未公开）
+- <http://web.stanford.edu/~alroth/alroth.html>: 诺奖得主Roth的博弈、实验、市场设计的网站
+- <http://sijichun.pro/>：上海对外经贸大学副教授司继春(网名慧航)的个人网站，有统计学课程slides和代码和一些数据集合。另外一位西南财经大学助理教授雷蕾也有相关的[数据集合](https://sites.google.com/view/leileitilburg/resources/data-in-china)
+
+- <https://yiqingxu.org/>：斯坦福政治学助理教授Yiqing Xu个人网站，上面贴有他的文章和代码以及一些非学术随笔。
+
+- <https://sites.google.com/site/mkudamatsu/home>: An Associate Prof named Masayuki Kudamatsu, the stata collection and [Devecondata](http://devecondata.blogspot.com/) is OK.
+
+-  Daniel L. Millimet(SMU)(<https://people.smu.edu/dmillimet/>)：containing the [Econmetrics II](https://smu.app.box.com/s/g379c3agpurdv8esmcmjtw11au95nuqr), Microeconometrics at Graduate level and the code and Blog about econometric.
+
+- <https://www.trentonmize.com/home>
+
+
+- 刘旭（SHUFE）<https://xliusufe.github.io/>: 一些关于R、python和C编程语言的入门介绍。
+
+- Shujia Wang（深圳大学）(<https://andrewwang.rbind.io/>)
+
+- Garrick Aden-Buie <https://www.garrickadenbuie.com/about/> The Data Science Educator and R developer.
+
+## Programming
+
+
+- The Missing Semester of Your CS Education（中文版）<https://missing-semester-cn.github.io/>: 强烈推荐，无论是任何专业的都需要学习了解一下。
+
+- <https://randrescastaneda.rbind.io/post/notepadpp/> Notepad++ as a Stata editor.
+
+- [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485480&idx=1&sn=7cc7eb58fa009e49448ebf93a604dfa5&chksm=e85f0087df28899169c14475b9db0c87382c7aaedaa4d24ef0f5322a65cc607036a543b0b4a7&scene=126&sessionid=1605496473&key=e746868e0bff7a6cece07a65db3af8041459f9643472fd4cb44ca4fef698eaeb858ff146bb2ef4ef34fcaba57e388766e1945d5e45e98e4e489d42301cc418e085ce22d62fcf274f10a10d41131f7d1c4bca37f564ce6bcdd1c70f927b53dc887c9bad5dda933c99d0cf2dd8df057ce06ee9d9483fd4d882437358a7560e6523&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AuetV39qbyezYSULwJ4KlwQ%3D&pass_ticket=27coS32I2rakUVjla%2B5an%2BYFJhZgtUpmjgitlYHx%2FCRtqJEQGroqJbaIms1M%2FPey&wx_header=0):编程建议集合，包含Stata/R/Python/LaTeX网上资源。
+
+
+
+### Stata
+
+- <https://randrescastaneda.rbind.io/post/profile-do/>:Stata profile.do: nice tips.
+
+- <https://randrescastaneda.rbind.io/post/data-shape-to-export-results/>:export rescult to Tableau or Excel.
+
+- Anders Sundell(<https://www.stathelp.se/index_en.html> ): Stata tips and helps.
+
