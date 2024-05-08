@@ -2,14 +2,16 @@ project:
   type: website
 
 website:
-  title: "Econ Apply"
+  title: "About Econ"
   navbar:
     left:
       - about.qmd
-      - href: index.qmd
+      - href: apply.qmd
         text: Econ Applying
-      - href: resource.qmd
-        text: Econ Resource
+      - href: resources.qmd
+        text: Econ Resources
+      - href: field.qmd
+        text: Econ Resoures II
 
 format:
   html:

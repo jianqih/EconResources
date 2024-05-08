@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 37c98f22-9bff-4910-bcd9-b5a750c889b3
+      url: 'https://about-econ.jianqihuang.com'
