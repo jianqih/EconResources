@@ -1,8 +1,3 @@
----
-title: "Applying Resources"
-toc: true
----
-
 ## Master
 - [Econ Master Program Application](https://comma0110.notion.site/comma0110/Econ-Master-Program-Application-bd5fd18ed10c4c86afa1c92ff658e687)：An undergraduate from CUHK(SZ) created a notion note based on her personal application but included most of excellent Econ MA project in the world.
 
@@ -79,7 +74,7 @@ toc: true
 
 - [For the ambitious, prospective PhD student: A Guide](https://economics.com.au/2012/03/27/for-the-ambitious-prospective-phd-student-a-guide/)
 
-- [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485437&idx=1&sn=d892ef29a0375be9f066e99738c40bf6&chksm=e85f0f52df2886447a9e114ed8a19e6ba688b187a7bad3f583801f2cef9d70ac925d7bc6b04d&scene=126&sessionid=1602211100&key=519b8bbaea533f9410e9ab5755442554afde47eaf6e3c03a786395a8370b5f5e485c27c9b6188618ea23f38f44bfa303cffd0960b84be99e67ccb7f854c9ada33de60cd7589d901e83c84eeb8521db1bf5e31aa7ff388b559ff9a103d5227a7d28e380400b1625afb2623db0128f3a8812d9c8ba27fb6aed899d121c671c33bf&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AocIPieY%2BnNsK%2F54xgfHJ5M%3D&pass_ticket=M3MNN44LbcfByrBjDeoNbZgH3NIITHgqkFUlF4%2BqqAXEMJ8gy1gl4iGCWuQ7ixLP&wx_header=0): 申请建议集合
+<!-- - [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485437&idx=1&sn=d892ef29a0375be9f066e99738c40bf6&chksm=e85f0f52df2886447a9e114ed8a19e6ba688b187a7bad3f583801f2cef9d70ac925d7bc6b04d&scene=126&sessionid=1602211100&key=519b8bbaea533f9410e9ab5755442554afde47eaf6e3c03a786395a8370b5f5e485c27c9b6188618ea23f38f44bfa303cffd0960b84be99e67ccb7f854c9ada33de60cd7589d901e83c84eeb8521db1bf5e31aa7ff388b559ff9a103d5227a7d28e380400b1625afb2623db0128f3a8812d9c8ba27fb6aed899d121c671c33bf&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AocIPieY%2BnNsK%2F54xgfHJ5M%3D&pass_ticket=M3MNN44LbcfByrBjDeoNbZgH3NIITHgqkFUlF4%2BqqAXEMJ8gy1gl4iGCWuQ7ixLP&wx_header=0): 申请建议集合 -->
 
 - Notes on Applying for a PhD in Economics <https://scholar.harvard.edu/files/shapiro/files/phdnotes.pdf> by shapiro(Harvard)
 

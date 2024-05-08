@@ -1,9 +1,3 @@
----
-title: "Macro"
-toc: true
-number-sections: true
----
-
 These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 > The classification may be overlapped.
@@ -28,9 +22,9 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 ## DSGE
 
-- <https://github.com/FRBNY-DSGE/DSGE.jl> The DSGE in Julia
+- <https://github.com/FRBNY-DSGE/DSGE.jl> DSGE in Julia
 
-- <http://web.stanford.edu/~aauclert/kuleuvenmini/> Minicourse on Fiscal and Monetary Policy with Heterogeneous Agents
+- <http://web.stanford.edu/~aauclert/kuleuvenmini/> Mini-course on Fiscal and Monetary Policy with Heterogeneous Agents
 
 - [Rios-Rull Slides](https://www.sas.upenn.edu/~vr0j/fslides.html)
 
@@ -47,9 +41,9 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 <!-- - MARTIN ELLISON<https://users.ox.ac.uk/~exet2581/index.html> -->
 
-- Dean Corbae Teaching in UWM <https://sites.google.com/a/wisc.edu/deancorbae/teaching>
+- Dean Corbae(UWM) <https://sites.google.com/a/wisc.edu/deancorbae/teaching>
 
-- jesusfv's website includes [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html)&[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html) and Course on History.
+- Jesusfv's website includes [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html)&[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html) and Course on History.
 
 - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/> Banking
 
@@ -132,9 +126,9 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - <http://www.wouterdenhaan.com/software.htm>
 
-- <https://benjaminmoll.com/lectures/> benjaminmoll 
+- <https://benjaminmoll.com/lectures/> Benjamin Moll (LSE)
 
-- <https://markus.scholar.princeton.edu/MacroMoneyFinance> MacroMoneyFinance taught by Markus Brunnermier.
+- <https://markus.scholar.princeton.edu/MacroMoneyFinance> Macro, Money, Finance.
 
 
 ## Others
@@ -144,8 +138,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - <https://wp.nyu.edu/zhenhuan/resources/> collected by Leed Lei.
 - Reading List in Macroeconomics and Monetary Economics <https://integdomain.files.wordpress.com/2014/07/monetary_list_v1-11.pdf>
 - [Scientific Research and Methodology](https://bookdown.org/pkaldunn/SRM-Textbook/) This book introduces quantitative research in the scientific and health disciplines. But it still works in other disciplines.
+- [ECON]
 - [Four Steps to an Applied Micro Paper](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
-- [writting suggesting](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf), Ryan Edwards
+- [writing suggesting](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf), Ryan Edwards
 - [How to build an economic model in your spare time](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf), Hal Varian
-
-
