@@ -3,7 +3,7 @@
 - It contains some useful resources in economics.
 
 <!-- - Based on the rapid development of computer and internet, we could discover various learning material on the internet. But it also needs to judge the quality and fitness of them when we are flooded with plenty of materials.  -->
-- Some resources are friendly for Mandarin-speaking users like me.
+- Some resources are friendly with Mandarin-speaking users like me.
 <!-- - _last updated_: Dec. 2023 -->
 
 - Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
@@ -13,7 +13,7 @@
 
 - [Causal Inference](https://mixtape.scunning.com/): Scott.
 
-- [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/): R code Stata code and Python code.
+- [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/): Containing R, Stata, and Python codes.
 
 <!-- - [Data Analysis for Economics](https://jiamingmao.github.io/data-analysis/): written by jiamingmao(XMU). it offers a unified introduction to the principles and methods of statistical modeling and causal inference. -->
 
