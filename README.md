@@ -1,17 +1,17 @@
 # EconResources
 
-It contains some useful resources in economics.
+- It contains some useful resources in economics.
 
-Based on the rapid development of computer and internet, we could discover various learning material on the internet. But it also needs to judge the quality and fitness of them when we are flooded with plenty of materials. 
-
+<!-- - Based on the rapid development of computer and internet, we could discover various learning material on the internet. But it also needs to judge the quality and fitness of them when we are flooded with plenty of materials.  -->
+- Some resources are friendly for Mandarin-speaking users like me.
 <!-- - _last updated_: Dec. 2023 -->
 
-- I cut off some unrelated resources with Econ/Fin. Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
+- Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
 
 
 ## Causal Inference and Econometrics
 
-- [Causal Inference](https://mixtape.scunning.com/): written by Scott.
+- [Causal Inference](https://mixtape.scunning.com/): Scott.
 
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/): R code Stata code and Python code.
 
@@ -61,11 +61,11 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - Statistical-Rethinking <https://xcelab.net/rm/statistical-rethinking/> A Bayesian Course with R and Stan. It has the equipped video on [Youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI), It also appears on [Bilibili](https://www.bilibili.com/video/BV1ya411A7ih/?spm_id_from=333.999.0.0&vd_source=0d445853a6cc92430d2549ebde5dc52f)
 
-- Very Statisticious <https://aosmith.rbind.io/>
+<!-- - Very Statisticious <https://aosmith.rbind.io/> -->
 
 - Deep Learning <https://d2l.ai/chapter_preface/index.html>
 
-- 神经网络与深度学习 <https://nndl.github.io/>：复旦大学[邱锡鹏](https://xpqiu.github.io/)
+- 神经网络与深度学习 <https://nndl.github.io/>: [邱锡鹏](https://xpqiu.github.io/)(复旦大学)
 
 - [Deep Learning DIY](https://dataflowr.github.io/website/) collecting resources to learn DL.
 
@@ -75,13 +75,13 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - [数据科学和机器学习](https://mlhowto.readthedocs.io/en/latest/index.html)
 
-- [Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial) stared in github more than 26k times.
+- [Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial) stared on GitHub over 26k times.
 
-- [tf2](https://github.com/ageron/tf2_course)
+- [Tensorflow 2](https://github.com/ageron/tf2_course)
 
 - [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
 
-- [Deep Learning](https://github.com/MingchaoZhu/DeepLearning) Some derivations in DP
+- [Deep Learning](https://github.com/MingchaoZhu/DeepLearning) 《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 
 - [Advanced Machine Learning](https://cims.nyu.edu/~mohri/amls/)
 
@@ -159,7 +159,8 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - Useful ML tools for empirical researchers <https://www.nber.org/lecture/summer-institute-2018-meet-randomistas-useful-ml-tools-empirical-researchers> Development Economics Masters Lecture by [Esther Dulfo](https://economics.mit.edu/people/faculty/esther-duflo)
 
-- Xiamen University has some lecture on Bilibili, like [The Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
+- XiamenU has some lectures on Bilibili, like [The Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
+
 
 
 <!-- ## Lecture Notes
@@ -174,13 +175,13 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - [Notes on Macroeconomic Theory(pdf)](http://www.econ.yale.edu/smith/econ510a/notes99.pdf)
 
-- [Macaro Theory](https://sites.google.com/a/umn.edu/chari/teaching)
+- [Macro Theory](https://sites.google.com/a/umn.edu/chari/teaching)
 
-- [Advanced Macroeconomics: Models with Heterogeneous Agents](https://www.sas.upenn.edu/~vr0j/oldteaching/uclec081-22/index.html): taught by [José Víctor Ríos Rull](https://www.sas.upenn.edu/~vr0j/) and Wei Cui
+- [Advanced Macroeconomics: Models with Heterogeneous Agents](https://www.sas.upenn.edu/~vr0j/oldteaching/uclec081-22/index.html) [José Víctor Ríos Rull](https://www.sas.upenn.edu/~vr0j/) and [Wei Cui](https://sites.google.com/site/weicuiweb/home)
 
-- [Advanced macroeconomic analysis](https://www.jennifer-la-o.com/advanced-macroeconomic-analysis) taught by JENNIFER LA'O(Columbia Business School)
+- [Advanced macroeconomic analysis](https://www.jennifer-la-o.com/advanced-macroeconomic-analysis): [JENNIFER LA'O](https://www.jennifer-la-o.com/)(Columbia Business School)
 
-- [PhD Computational Methods Course](https://www.fatihguvenen.com/phd-computational-methods) Fatih Guvenen(UMN)
+- [PhD Computational Methods Course](https://www.fatihguvenen.com/phd-computational-methods) [Fatih Guvenen](https://www.fatihguvenen.com/)(UMN)
 
 
 ## Econometrics and Time Series
@@ -193,7 +194,7 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - [Graduate Macro Theory II](https://www3.nd.edu/~esims1/grad_macro_14.html) taught by Eric Sims(University of Notre Dame)
 
-- [The Econometrics of Unobservables(pdf)](http://www.econ2.jhu.edu/People/Hu/Econometrics-of-Unobservables--Book.pdf)
+- [The Econometrics of Unobservables](http://www.econ2.jhu.edu/People/Hu/Econometrics-of-Unobservables--Book.pdf)
 
 <!-- - [Advanced Econometric(Video)](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0): equipped material in <https://netcourse.xmu.edu.cn/ae/> Prof.Hong Yongmiao also teaches the "Probability and Statistics for Economist" -->
 
@@ -213,9 +214,13 @@ Based on the rapid development of computer and internet, we could discover vario
 - [Organizational Economics II](https://sites.google.com/site/danielbarronecon/teaching) taught by Daniel Barron(Northwestern).
 
 ## Other Fields
+
 - [Urban Economics](https://urbaneconomics.org/workshops/lectures2020/)
+
 - [Information Economics](http://www.kris-nimark.net/Info_2021.html)
+
 - [Environmental Economics](https://github.com/rtol/Environmental-Economics)
+
 - [Political Economy of Development](https://bookdown.org/abezarescalderon/guide-ped/): it is a online book built by bookdown, has some great material in development field.
 
 
@@ -255,14 +260,14 @@ Based on the rapid development of computer and internet, we could discover vario
 
 - [Nighttime Lights](http://www.richard-bluhm.com/wp-content/uploads/2020/02/Lecture-5-Nighttime-Lights-Bluhm.pdf) it's a guest lecture.
 
-### Replication
+### Replications
 
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page)
 
 - [Find Econ Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 
 
-## Research
+## Research Guide
 
 - [Guidelines: Research Design & term paper draft](https://docs.google.com/document/d/1GmpBUGNiLFpnIAsCGMtp4UI7GZBzs4HqNopwWA5J_9A/edit)
 
