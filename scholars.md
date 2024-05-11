@@ -1,0 +1,19 @@
+- [Hao Xing](https://sites.google.com/view/hao-xing/home)
+- [Jianjun Miao](https://people.bu.edu/miaoj/)
+- [Feng Dong](https://fengdongecon.weebly.com/research.html)
+- [Toshimukoyama](https://sites.google.com/view/toshimukoyama/) also could find some nice [Lecture notes](https://sites.google.com/view/toshimukoyama/notes) on his website.
+- [Sovereign Default Reading List](https://www.gmihalache.com/teaching/sov-debt-and-default/)
+- [Mathieu Laurière](https://mlauriere.github.io/): MFG and ML
+- [aauclert](https://aauclert.people.stanford.edu/teaching)
+- [Den Haan](https://www.wouterdenhaan.com/notes.htm)
+- [Guido Menzio](https://wp.nyu.edu/guido_menzio/)
+- [Chad Jones](https://web.stanford.edu/~chadj/): growth.
+- [Jesús Fernández-Villaverde](https://www.sas.upenn.edu/~jesusfv/index.html)
+- [ALISDAIR MCKAY](https://alisdairmckay.com/)
+- [Roberto Samaniego](https://robertosamaniego.weebly.com/publications.html)
+- [clément mazet-sonilhac](https://cms27.github.io/)
+- [Itay Saporta-Eksten](https://sites.google.com/view/itaysaportaeksten/home)
+- [Lu Zhang](https://theinvestmentcapm.com/index.html)
+- [Issac Baley](https://www.isaacbaley.com/teaching.html)
+- [Pablo Winant](https://www.mosphere.fr/)
+- [Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/)

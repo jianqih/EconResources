@@ -8,6 +8,11 @@
 
 - Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
 
+- The different fields can be found [here](field.md)
+
+- The collections for codes and coding skills can be found [here](codes.md)
+
+- The collections for data and some replication codes can be found [here](data.md)
 
 ## Causal Inference and Econometrics
 
@@ -31,6 +36,21 @@
 
 - [Statistical Tools for Causal Inference](https://chabefer.github.io/STCI/) other useful resource given by writter is [here](https://sites.google.com/site/sylvainchabeferret/teaching)
 
+- [Econometrics (Master in Econ, 1st year)](https://sites.google.com/site/jmarcrobin/teaching/m1-epp---introduction-to-econometrics): Jean-Marc Robin(Science Po)
+
+- [Probability and Statistics (Master in Econ, 1st year)](https://sites.google.com/site/jmarcrobin/teaching/probability-and-statistics-econometrics-1-master-in-economics-1st-year): Jean-Marc Robin(Science Po)
+
+- [ Applied Micro in Stata Workshop, RoME 2022](https://www.jarellanobover.com/applied-micro-in-stata-2022)
+
+- [因果推断与工资分解方法：理论与应用](https://byelenin.github.io/SS_Decomposition/)
+
+- [Metric's Note](https://sites.google.com/site/aboutpeterhull/metrix)
+
+- [Causal ML](https://mcknaus.github.io/menu/teaching.html)
+
+- [Advanced Statistical Methods for Observational Studies](http://rogosateaching.com/somgen290/)
+
+- [Statistical Tools for Causal Inference](https://chabefer.github.io/STCI/)
 
 ## Math and Statistics
 
@@ -53,6 +73,7 @@
 - [Applied Nonparametric and Modern Statistics](https://www.biostat.jhsph.edu/~ririzarr/Teaching/754/)
 
 - [应用随机过程](https://www.math.pku.edu.cn/teachers/lidf/course/stochproc/stochprocnotes/html/_book/index.html)：介绍随机过程的基本概念及鞅和在金融中的应用。
+
 
 
 ## Computer Science
@@ -89,6 +110,9 @@
 
 - cs231<https://cs231n.github.io/>
 
+- ML with Graphs <https://web.stanford.edu/class/cs224w/>
+
+- Foundation of RL <https://wensun.github.io/CS6789_spring_2023.html>
 
 ### Data Science
 <!-- - [Python for Data Analysis](https://wesmckinney.com/book/) -->
@@ -159,7 +183,7 @@
 
 - Useful ML tools for empirical researchers <https://www.nber.org/lecture/summer-institute-2018-meet-randomistas-useful-ml-tools-empirical-researchers> Development Economics Masters Lecture by [Esther Dulfo](https://economics.mit.edu/people/faculty/esther-duflo)
 
-- XiamenU has some lectures on Bilibili, like [The Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
+- XMU has some lectures on Bilibili, like [The Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
 
 
 
@@ -167,7 +191,11 @@
 
 - <http://econphd.econwiki.com/notes.htm>:  -->
 
-## Macro
+## Macroeconomics
+
+- [Macroeconomics (FDU)](https://xuzhiwei09.wixsite.com/econ/macrotopics) Zhiwei Xu
+
+- [Lectures in Recursive Economic Dynamics](https://pgalbacs.wordpress.com/2023/07/05/lectures-in-recursive-economic-dynamics/): Peter Galbács
 
 - [ECON 7300 Tools for Applied Macro I(Cornell, Sp2017)](http://www.kris-nimark.net/Applied_Macro_2017.html)
 
@@ -183,6 +211,13 @@
 
 - [PhD Computational Methods Course](https://www.fatihguvenen.com/phd-computational-methods) [Fatih Guvenen](https://www.fatihguvenen.com/)(UMN)
 
+- [Advanced Macro](https://tomasrm.github.io/teaching/advmacro/)
+
+## Micro
+
+- [Econ 711 Fall 2021 - Dan Quint](https://users.ssc.wisc.edu/~dquint/econ711%20fall%202021/Econ%20711%20F2021.htm)
+
+- <https://www.johnquah.com/lecture-slides.html>
 
 ## Econometrics and Time Series
 
@@ -196,8 +231,10 @@
 
 - [The Econometrics of Unobservables](http://www.econ2.jhu.edu/People/Hu/Econometrics-of-Unobservables--Book.pdf)
 
+- [Hayashi Econometrics](https://sites.google.com/view/fumio-hayashis-hp/hayashi-econometrics)
 <!-- - [Advanced Econometric(Video)](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0): equipped material in <https://netcourse.xmu.edu.cn/ae/> Prof.Hong Yongmiao also teaches the "Probability and Statistics for Economist" -->
 
+- [Mathematical Statistics](https://pages.stat.wisc.edu/~shao/stat709/main.html)
 
 ## Trade and IO
 
@@ -211,61 +248,41 @@
 
 - [Empirical Methods for Industrial Organization](http://www.its.caltech.edu/~mshum/gradio/ioclass.html) taught by [Matthew Shum](http://www.its.caltech.edu/~mshum/)(Caltech).
 
+- [EIO](https://sites.google.com/view/victoraguirregabiriaswebsite/teaching/phd-empirical-io)
+
 - [Organizational Economics II](https://sites.google.com/site/danielbarronecon/teaching) taught by Daniel Barron(Northwestern).
 
 ## Other Fields
 
+- [Dynamic Contracts](https://sites.google.com/site/zhangeager/dynamic_contract)
+
+- [Public Econ](https://ocw.mit.edu/courses/14-471-public-economics-i-fall-2012/pages/lecture-notes/)
+
+- [Dynamic Fiscal Policy in Political and International Economies](https://sites.google.com/site/mrandreasmueller/resources): 
+
 - [Urban Economics](https://urbaneconomics.org/workshops/lectures2020/)
+
+- [graduate-urban-economics](https://nathanschiff.com/graduate-urban-economics-spring-2023/)
 
 - [Information Economics](http://www.kris-nimark.net/Info_2021.html)
 
+- [ORGANIZATIONAL ECONOMICS](https://www.pareto-optimal.com/mecs-475-organizational-economics/)
+
 - [Environmental Economics](https://github.com/rtol/Environmental-Economics)
 
-- [Political Economy of Development](https://bookdown.org/abezarescalderon/guide-ped/): it is a online book built by bookdown, has some great material in development field.
+- [Political Economy of Development](https://bookdown.org/abezarescalderon/guide-ped/): it is a online book built by Bookdown, has some great material in development field.
 
+- [Health Economics Teaching Materials Repository](https://www.ashecon.org/teaching-materials-repository/)
 
-## Datas
+- [Resources in Personnel Economics](https://sites.google.com/view/personnel-economics-resources/home)
 
-- Harvard database <https://dataverse.harvard.edu/>
+- [Inequality](https://maxkasy.github.io/home/teaching/)
 
-- Data Sharing for demographic Research <https://www.icpsr.umich.edu/web/pages/DSDR/index.html>
+- [Insurance](https://insurance.princeton.edu/teaching-notes/)
 
-- Peking Open Research Data <https://opendata.pku.edu.cn/>
+- [Master EMI: Understanding economic fluctuations](https://sites.google.com/view/nicolascoeurdacier/teaching/master-emi-understanding-economic-fluctuations)
 
-- Kaggle Datasets <https://www.kaggle.com/datasets/> The datas are usually uploaded by individuals. So the accuracy couldn't be permitted. But the datasets are various.
-
-- <https://ejd.econ.mathematik.uni-ulm.de/>: the newest economic articles data
-
-- UCI machine learning dataset <https://archive.ics.uci.edu/ml/datasets.php>
-
-- Openicpsr <https://www.openicpsr.org/openicpsr/search/studies>
-
--  Prof.Yuhua Huang personal Data :<https://scholar.harvard.edu/yuhuawang/data> includes Corruption Data, Chinese Listed Firms Personnel Database and some replication data from politics paper. By the way Prof.Yuhua Huang has great enthusiasm to help Chinese Social Science student to apply PhD especially in Politics.
-
-- 中国历代人物传记数据库 <https://projects.iq.harvard.edu/chinesecbdb>
-
-- 中国历史地图 <https://chgis.fas.harvard.edu/>
-
-- Chinese Country Map with 2000-2010 population Census Data <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VKGEBX>
-
-- Mobility Index based on High-speed Railway Data in China <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JUBLGB>
-
-- China Multi-Generational Panel Dataset, Liaoning. <https://www.icpsr.umich.edu/web/DSDR/studies/27063>
-
-- China micro survey data: like [CFPS](http://www.isss.pku.edu.cn/cfps/en/index.htm) [CHARLS](http://charls.pku.edu.cn/), [CFPS](https://chfs.swufe.edu.cn/), [CGSS](http://cgss.ruc.edu.cn/), [CLDS](http://css.sysu.edu.cn/Data), [CHNS](https://www.cpc.unc.edu/projects/china/data) etc. The more detailed information could be found in [this](https://sites.google.com/view/leileitilburg/resources/data-in-china) or [this](https://mp.weixin.qq.com/s/GgmhZXyAeXpT-8iQf-uV0Q) 
-
-- [经济金融实证顶刊数据代码共享网站汇总](https://mp.weixin.qq.com/s/JDYNVuS9UyXX_nTC-irW8A)
-
-- [How to access standard data sources](https://www.sas.upenn.edu/~vr0j/oldteaching/econ8185-12/datadoc1.pdf)
-
-- [Nighttime Lights](http://www.richard-bluhm.com/wp-content/uploads/2020/02/Lecture-5-Nighttime-Lights-Bluhm.pdf) it's a guest lecture.
-
-### Replications
-
-- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page)
-
-- [Find Econ Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
-
+- [PDE for Finance](https://math.nyu.edu/~kohn/pde_finance_2014.html)
 
 ## Research Guide
 
@@ -273,92 +290,36 @@
 
 - [Guidelines: Term paper](https://docs.google.com/document/d/1IKlheTnc2yjI3h6Rl5Njh3eqAHk6vcW8N26oDrpQo5w/edit)
 
-- FINDING ECONOMIC ARTICLES WITH DATA UND STATA REPRODUCTIONS
- <https://skranz.github.io/>
-
 - <https://gregmankiw.blogspot.com/search?q=advice>: the research suggestions from Greg Mankiw.
 
 - <https://blogs.ubc.ca/khead/research/research-advice>: collected research advice by Keith Head.
 
-- <https://sites.google.com/site/mounirkaradja/resources>: Tips and resources for research
+- <https://sites.google.com/site/mounirkaradja/resources>: Tips and resources for research.
 
-- <https://sites.google.com/view/kleintob/ph-d-students>: Academic writing, communicating and many other thing.
+- <https://sites.google.com/view/kleintob/ph-d-students>: Academic writing, communicating and many other things.
 
+- <https://sites.google.com/view/lingzhou/resources>
 
-## Programming
+- <https://haluong.weebly.com/resources.html>
 
-- QuantEcon <https://quantecon.org/>: mainly include some Lectures and projects like [Quantitative Economics with Julia](https://julia.quantecon.org/intro.html#) etc.
+- <https://matt.might.net/articles/phd-school-in-pictures/>
 
-- Coding for Economists <https://aeturrell.github.io/coding-for-economists>
+- <https://christinecai.github.io/items/PublicGoods.html>
 
-- The Missing Semester of Your CS Education（中文版）<https://missing-semester-cn.github.io/>: 强烈推荐，无论是任何专业的都需要学习了解一下。
+- <https://kidger.site/thoughts/just-know-stuff/>
 
-- <https://randrescastaneda.rbind.io/post/notepadpp/> Notepad++ as a Stata editor.
+- [Econ Job market advice](https://jblevins.org/notes/job-market?continueFlag=0f3e03decdf4cadde0a19bcedd4f0820)
 
-- [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485480&idx=1&sn=7cc7eb58fa009e49448ebf93a604dfa5&chksm=e85f0087df28899169c14475b9db0c87382c7aaedaa4d24ef0f5322a65cc607036a543b0b4a7&scene=126&sessionid=1605496473&key=e746868e0bff7a6cece07a65db3af8041459f9643472fd4cb44ca4fef698eaeb858ff146bb2ef4ef34fcaba57e388766e1945d5e45e98e4e489d42301cc418e085ce22d62fcf274f10a10d41131f7d1c4bca37f564ce6bcdd1c70f927b53dc887c9bad5dda933c99d0cf2dd8df057ce06ee9d9483fd4d882437358a7560e6523&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AuetV39qbyezYSULwJ4KlwQ%3D&pass_ticket=27coS32I2rakUVjla%2B5an%2BYFJhZgtUpmjgitlYHx%2FCRtqJEQGroqJbaIms1M%2FPey&wx_header=0):编程建议集合，包含Stata、R、Python和LaTeX网上资源。
+- [A practical guide of the first years (for outsiders) from insiders](https://drive.google.com/file/d/1KryQkyfcSBDLIY6XKVtcyvp8mv5wrOoZ/view)
 
-<!-- - Python - 100天从新手到大师 <https://github.com/jackfrued/Python-100-Days> -->
+- <https://www.ruidu.org/miscellaneous>
 
-- The Vim Tutorial <https://www.truth.sk/vim/vimbook-OPL.pdf>
+- <https://www.mariorafaelsilva.com/resources/>
 
-- [Happy Git and GitHub for the useR](https://happygitwithr.com) it is a great guidance to access Git and Github in R.
+- Impactful Research <https://truan.github.io/resources/>
 
+- Productivity and work habit <https://www.patrickbaylis.com/posts/2022-02-09-productivity/2022-02-09-productivity?continueFlag=5b129f8aac804b43a5524c23d36869e8>
 
-### LaTeX
+- [Resources on Computation](https://www.gmihalache.com/computation/#lectureNotes): Compiled by Gabriel Mihalache
 
-- getting start with LaTeX <https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/>
-
-- Useful LaTeX snippets <https://flowus.cn/latex/share/66110e84-b24a-4cd5-b8a7-2ba2afb35a30>
-
-- [Basic LaTex](https://kochiuyu.github.io/programming/latex/basiclatex/) by kochiyu(HKU)
-
-- A LaTeX Template for Economics Papers <https://github.com/cheinchi/Template-for-Overleaf>
-
-
-### Stata
-
-- <https://randrescastaneda.rbind.io/post/profile-do/>:Stata profile.do: nice tips.
-
-- <https://randrescastaneda.rbind.io/post/data-shape-to-export-results/>:export rescult to Tableau or Excel.
-
-- Anders Sundell(<https://www.stathelp.se/index_en.html> ): Stata tips and helps.
-
-- <https://julianreif.com/guide/> Stata coding guide.
-
-
-### R
-The online resources of `R` is vast because of the support of [bookdown](https://bookdown.org/) and the popularity of R. 
-
-- <https://swirlstats.com/> Interactively learning R in RStudio.
-
-- Local tips for `R` <http://egret.psychol.cam.ac.uk/statistics/R/index.html> It is a little outdate but useful.
-
-<!-- - R语言教程 <https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html> -->
-
-- "Big Book of R" <https://www.bigbookofr.com/> The Resources collection of R.
-
-- API for Social Scientists <https://bookdown.org/paul/apis_for_social_scientists/introduction.html>
-
-- The Advanced R<https://adv-r.hadley.nz/> This book helps learners master and understand R better and how it works.
-
-- <https://r-graphics.org/> R Graphics Cookbook
-
-### Julia
-
-<!-- - Julia中文文档 <https://docs.juliacn.com/latest/> -->
-
-- Dongfeng Li(PKU) <https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html>
-
-- Data-parallel Programming in Julia <https://juliafolds.github.io/data-parallelism/#data-parallel_programming_in_julia>
-
-- [Juliaplots](https://docs.juliaplots.org/latest/tutorial/)
-
-
-### Python
-
-<!-- - sklearn中文文档 <https://www.sklearncn.cn/> -->
-
-<!-- - python 实用教程 <https://github.com/shibing624/python-tutorial> -->
-
-- FinTech Toolbox <https://www.bilibili.com/video/BV1DE411y7nz/?spm_id_from=333.999.0.0> 
-
+- [Jason Blevins's Notes](https://jblevins.org/notes/)

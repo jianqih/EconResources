@@ -20,6 +20,8 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - Codes mainly related to HANK <https://www.ralphluetticke.com/code/>
 
+- <https://www.rustamjamilov.com/teaching> Oxford
+
 ## DSGE
 
 - <https://github.com/FRBNY-DSGE/DSGE.jl> DSGE in Julia
@@ -32,73 +34,92 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - A collection of Dynare models <https://github.com/JEFFSAMUEL/SANA/tree/20caa600c5508649011a4f1da7d7a57401fc4d4d>
 
+- Dynamic General Equilibrium Modelling, Computational Methods and Applications
+<https://www.uni-augsburg.de/de/fakultaet/wiwi/prof/vwl/maussner/dgebook/>
+
+
 
 ## Macro-Finance
 
 - <https://www.isaacbaley.com/advanced-macro-ii.html>
 
+- Financial Frictions in General Equilibrium <https://www.jamesmnason.net/lectures-notes>: James M. Nason
+
 - <https://sites.google.com/a/nyu.edu/advanced-macroeconomics-i/products-services>
+
+- <https://initiative.princeton.edu/macro-finance-online-summer-school/>
 
 <!-- - MARTIN ELLISON<https://users.ox.ac.uk/~exet2581/index.html> -->
 
 - Dean Corbae(UWM) <https://sites.google.com/a/wisc.edu/deancorbae/teaching>
 
-- Jesusfv's website includes [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html)&[Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html) and Course on History.
+- Jesusfv's website includes [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html) and [Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html) and Course on History.
 
-- <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/> Banking
+<!-- - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/> Banking -->
 
+- [Adrien Matray](https://sites.google.com/view/adrienmatray/teaching/)
+
+- [The Macroeconomics of Imperfect Capital Markets](https://econweb.umd.edu/~drechsel/teaching/index.htm)
+
+- [UBC ECON622](https://ubcecon.github.io/ECON622/)
 
 ## Asset Pricing
 
 - François Gourio(Federal Reserve Bank of Chicago) Teaching Page <https://sites.google.com/site/fgourio/teaching-notes?authuser=0> including macro-asset pricing and PhD-level macroeconomics
 
-- <http://pfwang.people.ust.hk/Teaching.htm>
+<!-- - <http://pfwang.people.ust.hk/Teaching.htm> -->
 
-- Wuhan University FinTech <https://github.com/WHUFT> 
+<!-- - WuhanU FinTech <https://github.com/WHUFT>  -->
 
-- [Quantitive Investment](https://abzhaobo.github.io/courses/quant/) in NanKai University 
+<!-- - [Quantitative Investment](https://abzhaobo.github.io/courses/quant/) NKU -->
 
-- [Big data and Asset Prising](https://www.lhpedersen.com/big-data-asset-pricing)
+- [Big data and Asset Pricing](https://www.lhpedersen.com/big-data-asset-pricing)
 
 - [Open Source Asset Pricing](https://www.openassetpricing.com/code/)
 
 - <http://www.hengjieai.com/intro-to-ap.html> 
 
+- <https://www.andrewlyasoff.tech/slides>
+
 - <https://www.factorwar.com/research/asset-pricing/> 
 
-## Dynamic Model
 
-- [Firm Dynamics](http://www.chrisedmond.net/phd2014.html) taught by Chris Edmond(U Melbourne).
+## Macro-Labor
+- [ec9c6 - topics in macroeconomics](https://christine-braun.github.io/teaching.html)
 
-- [Deep Learning for Solving and Estimating Dynamic Models](https://dseconf.org/dse2023#)
+- [ec9c5 - topics in labor economics](https://christine-braun.github.io/teaching-labor.html)
+
+- [Search and Matching ](https://sites.google.com/site/jmarcrobin/teaching/search-matching): Jean-Marc Robin
+
+- [Economics of the Family](https://abiadams.com/teaching/economics-of-the-family/)
+
+- [Household Behavior](https://sites.google.com/view/householdbehavior/home?authuser=0)
+
+- [Unemployment](https://pascalmichaillat.org/c1/)
+- [Economic Slacks](https://pascalmichaillat.org/c2/)
+- [Business Cycles and How to Tame Them](https://pascalmichaillat.org/c5/)
 
 
-## Lecture note/textbook
 
-> The Published Textbooks are limited to printing right such that these could not be accessed the pdf files in a general way.
 
+## Lecture note and textbook
+
+> The Published Textbooks are limited to printing right such that these could not be accessed the PDF files in a general way.
 - [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis)
 - [LS](http://libgen.rs/search.php?req=recursive+macroeconomic&open=0&res=25&view=simple&phrase=1&column=def)
 - [SLP](http://libgen.rs/search.php?req=recursive+methods&open=0&res=25&view=simple&phrase=1&column=def)
-- [Monetary Policy,inflation, and the Business Cycle](http://libgen.rs/search.php?req=Monetary+Policy%2C+Inflation%2C+and+the+Business+Cycle&open=0&res=25&view=simple&phrase=1&column=def) The classic textbook in NK.
+- [Monetary Policy, inflation, and the Business Cycle](http://libgen.rs/search.php?req=Monetary+Policy%2C+Inflation%2C+and+the+Business+Cycle&open=0&res=25&view=simple&phrase=1&column=def) The classic textbook in NK.
 - Applied Computational Economics and Finance
 - Economic Growth 
 - Theory and numerical solution methods
 - Dynamic General Equilibrium Modeling.
 - Bayesian Estimation of DSGE 
-
-## Math
-
-- Alexis Akira Toda Teaching List, including Mathematical Economics, Financial Markets, and Intertemporal Asset Pricing Theory <https://alexisakira.github.io/teaching/>
+- [Alexis Akira Toda](https://alexisakira.github.io/) Teaching List, including Mathematical Economics, Financial Markets, and Intertemporal Asset Pricing Theory <https://alexisakira.github.io/teaching/>
 - [Calculus of Variations and Partial Differential Equations](https://www.math.tecnico.ulisboa.pt/~dgomes/notas_calvar.pdf)
 - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/>
-- <https://press.princeton.edu/books/hardcover/9780691135052/the-economics-of-inaction> writed by Nancy Stockey
-
-
-### SDE/BDSE/Stochastic Controls
-
+- <https://press.princeton.edu/books/hardcover/9780691135052/the-economics-of-inaction> Nancy Stockey
 - Financial Modeling:A Backward Stochastic Differential Equations Perspective <https://link.springer.com/book/10.1007/978-3-642-37113-4>
-- Stochastic Controls: Hamiltonian Systems and HJB Equations  <https://www.amazon.com/Stochastic-Controls-Hamiltonian-Equations-Probability/dp/0387987231>
+- Stochastic Controls: Hamiltonian Systems and HJB Equations <https://www.amazon.com/Stochastic-Controls-Hamiltonian-Equations-Probability/dp/0387987231>
 
 
 ### Mean Field Games 
@@ -107,6 +128,21 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - <https://arxiv.org/abs/2012.05237> Applications of Mean Field Games in Financial Engineering and Economic Theory
 - Ben Moll(LSE) <https://benjaminmoll.com/wp-content/uploads/2020/10/MFG_macro.pdf>
 - Adrien Bilal(Harvard) [ECONOMICS AND MEAN FIELD GAMES](https://sites.google.com/site/adrienbilal/teaching)
+- Weak solutions to the master equation of a potential mean field game <https://mathtube.org/lecture/video/weak-solutions-master-equation-potential-mean-field-game>
+Some related paper for the application of MFG in macroeconomics. [Solving Heterogeneous Agent Models with the Master Equation(Adrien Bilal)](https://drive.google.com/file/d/1yGOI_WWMnEIjJ8N4t1GVKowRxc-yRC7x/view), and Adrien Bilal and Esteban Rossi-Hansberg employ FAME for [Dynamic climate model](https://drive.google.com/file/d/1hpxdOdiT367Dn35n0LzKv4BmDuISHUHn/view)
+[ALS, ECMA(2023)](https://www.econometricsociety.org/publications/econometrica/2023/11/01/Price-Setting-with-Strategic-Complementarities-as-a-Mean-Field-Game) is alternative application of MFG in macroeconomics.
+
+## Computational Economics
+- [Firm Dynamics(Phd 2014)](http://www.chrisedmond.net/phd2014.html) Chris Edmond(MelbourneU).
+- [Economic Growth(PhD 2021)](http://www.chrisedmond.net/phd2021.html) Chris Edmond(MelbourneU)
+- [Advanced Macroeconomics(honors/masters 2019)](http://www.chrisedmond.net/hons2019.html) Chris Edmond(MelbourneU)
+- [Macroeconomics (Phd Core)](http://www.chrisedmond.net/phd2019.html) Chris Edmond(MelbourneU)
+- [Deep Learning for Solving and Estimating Dynamic Models](https://dseconf.org/dse2023#)
+- [Computational Dynamics](https://www.borovicka.org/teaching/computational-dynamics.html)
+- [Comp Econ for PhDs](https://floswald.github.io/NumericalMethods/#computational_economics_for_phds): fl
+- [Comp Econ](https://kenjudd.org/teaching/university-of-zurich-2020/) Ken Judd; with teaching vedios
+- [ResEcon703](https://github.com/woerman/ResEcon703/)
+- [Computational Methods for Economists using Python](https://opensourceecon.github.io/CompMethods/index.html)
 
 ## Quantitative Macro Econ/ Micro data
 
@@ -118,11 +154,11 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - [Methods and Applications in Quantitative Macroeconomics](https://sites.google.com/site/katrinrabitsch/teaching/quantmacro2012)
 
-- [Computational Methods for Economists](https://lmaliar.ws.gc.cuny.edu/teaching/computational-methods-for-economists/) taught by Lilia Maliar(CUNY) whom also wrote the book chapter in [Handbook of Computational Economics](https://lmaliar.ws.gc.cuny.edu/files/2019/01/Chapter7HandbookCE2014.pdf)
+- [Computational Methods for Economists](https://lmaliar.ws.gc.cuny.edu/teaching/computational-methods-for-economists/): Lilia Maliar(CUNY), she wrote the [Handbook of Computational Economics](https://lmaliar.ws.gc.cuny.edu/files/2019/01/Chapter7HandbookCE2014.pdf)
 
 - <https://www.thomaswinberry.com/teaching/index.html>Micro Data for Macro Models [Reading list](https://www.thomaswinberry.com/teaching/winberryReadingList_2019.pdf)
 
-- Advanced topics in applied macroeconomics<https://scholar.harvard.edu/chodorow-reich/classes/economics-2410hfc-advanced-topics-applied-macroeconomics> by Gabriel Chodorow-Reich
+- Advanced topics in applied macroeconomics<https://scholar.harvard.edu/chodorow-reich/classes/economics-2410hfc-advanced-topics-applied-macroeconomics>: Gabriel Chodorow-Reich
 
 - <http://www.wouterdenhaan.com/software.htm>
 
@@ -130,6 +166,9 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - <https://markus.scholar.princeton.edu/MacroMoneyFinance> Macro, Money, Finance.
 
+- <https://jfhoude.econ.wisc.edu/teaching-phd-io/>
+
+- [Macro Dynamics](https://sites.google.com/site/gigipaciello/macro-dynamics?authuser=0)
 
 ## Others
 
@@ -142,3 +181,10 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - [Four Steps to an Applied Micro Paper](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
 - [writing suggesting](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf), Ryan Edwards
 - [How to build an economic model in your spare time](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf), Hal Varian
+- [Math Course for Econ](http://www.tomsargent.com/math_courses_NYU.html) Tom Sargent.
+- [Learning in Continuous Time](https://bldavies.com/blog/learning-continuous-time/)
+- <https://makotonakajima.github.io/comp/>
+- Macro Analysis <https://www.niepelt.ch/textbook/#code>
+
+- Econ paper search <https://econ-paper-search.streamlit.app/>
+- <https://www.chaseabram.com/>
