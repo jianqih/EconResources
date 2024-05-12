@@ -6,13 +6,14 @@
 - Some resources are friendly with Mandarin-speaking users like me.
 <!-- - _last updated_: Dec. 2023 -->
 
-- Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
 
 - The different fields can be found [here](field.md)
 
 - The collections for codes and coding skills can be found [here](codes.md)
 
 - The collections for data and some replication codes can be found [here](data.md)
+
+- Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
 
 ## Causal Inference and Econometrics
 
@@ -113,6 +114,8 @@
 - ML with Graphs <https://web.stanford.edu/class/cs224w/>
 
 - Foundation of RL <https://wensun.github.io/CS6789_spring_2023.html>
+
+- [Programming Practices for Research in Economics(UZH 2018)](https://github.com/pp4rs/2018-uzh-course-material)
 
 ### Data Science
 <!-- - [Python for Data Analysis](https://wesmckinney.com/book/) -->

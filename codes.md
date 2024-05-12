@@ -127,3 +127,9 @@ The online resources of `R` is vast because of the support of [bookdown](https:/
 - [Replications DSGE and VAR](https://sites.google.com/site/ambropo/replications)
 
 - [Overview of Active Learning](https://jacobgil.github.io/deeplearning/activelearning)
+
+- Aiyagari(1994), Huggett(1996), Transition Dynamics and Castaneda, Díaz-Giménez, and Ríos-Rull (2003) <https://yanranecon.github.io/codes/>
+
+- [Pascal Michaillst](https://pascalmichaillat.org/design/) designed academic Hugo website template, LaTeX template etc.
+
+- [Aiyagari (1994)](https://github.com/AGaillardTSE/aiyagari) C++ version with EGM method.

@@ -8,25 +8,15 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 <!-- - <https://github.com/KateSchneider-FoodPol/Stata-Regression-Teaching-Exercise> -->
 
 
-## Heterogeneous Agents Model
+<!-- ## Heterogeneous Agents Model -->
 
-- <https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2022> NBER Heteregenous-Agent Macro Workshop 2022
+<!-- - <https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2022> NBER Heteregenous-Agent Macro Workshop 2022 -->
 
-- <https://www.ralphluetticke.com/files/Slides_Luetticke.pdf> The author's [github page](https://github.com/ralphluet)
 
-- Computational Notes on Heterogeneous-Agent Macroeconomics <https://alisdairmckay.com/Notes/HetAgents/>
-
-- Notes on Computational Methods for Macroeconomics <https://makotonakajima.github.io/comp/> by [Makoto Nakajima](https://makotonakajima.github.io/)
-
-- Codes mainly related to HANK <https://www.ralphluetticke.com/code/>
-
-- <https://www.rustamjamilov.com/teaching> Oxford
 
 ## DSGE
 
 - <https://github.com/FRBNY-DSGE/DSGE.jl> DSGE in Julia
-
-- <http://web.stanford.edu/~aauclert/kuleuvenmini/> Mini-course on Fiscal and Monetary Policy with Heterogeneous Agents
 
 - [Rios-Rull Slides](https://www.sas.upenn.edu/~vr0j/fslides.html)
 
@@ -36,7 +26,6 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - Dynamic General Equilibrium Modelling, Computational Methods and Applications
 <https://www.uni-augsburg.de/de/fakultaet/wiwi/prof/vwl/maussner/dgebook/>
-
 
 
 ## Macro-Finance
@@ -131,6 +120,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - Weak solutions to the master equation of a potential mean field game <https://mathtube.org/lecture/video/weak-solutions-master-equation-potential-mean-field-game>
 Some related paper for the application of MFG in macroeconomics. [Solving Heterogeneous Agent Models with the Master Equation(Adrien Bilal)](https://drive.google.com/file/d/1yGOI_WWMnEIjJ8N4t1GVKowRxc-yRC7x/view), and Adrien Bilal and Esteban Rossi-Hansberg employ FAME for [Dynamic climate model](https://drive.google.com/file/d/1hpxdOdiT367Dn35n0LzKv4BmDuISHUHn/view)
 [ALS, ECMA(2023)](https://www.econometricsociety.org/publications/econometrica/2023/11/01/Price-Setting-with-Strategic-Complementarities-as-a-Mean-Field-Game) is alternative application of MFG in macroeconomics.
+<https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2013.0397>
 
 ## Computational Economics
 - [Firm Dynamics(Phd 2014)](http://www.chrisedmond.net/phd2014.html) Chris Edmond(MelbourneU).
@@ -143,7 +133,7 @@ Some related paper for the application of MFG in macroeconomics. [Solving Hetero
 - [Comp Econ](https://kenjudd.org/teaching/university-of-zurich-2020/) Ken Judd; with teaching vedios
 - [ResEcon703](https://github.com/woerman/ResEcon703/)
 - [Computational Methods for Economists using Python](https://opensourceecon.github.io/CompMethods/index.html)
-
+- [Computational Macroeconomics(UG)](https://github.com/letsgoexploring/computational-macroeconomics)
 ## Quantitative Macro Econ/ Micro data
 
 - Empirical Macro <https://eml.berkeley.edu/~enakamura/teaching.html> Emi Nakamura.
@@ -185,6 +175,5 @@ Some related paper for the application of MFG in macroeconomics. [Solving Hetero
 - [Learning in Continuous Time](https://bldavies.com/blog/learning-continuous-time/)
 - <https://makotonakajima.github.io/comp/>
 - Macro Analysis <https://www.niepelt.ch/textbook/#code>
-
 - Econ paper search <https://econ-paper-search.streamlit.app/>
 - <https://www.chaseabram.com/>

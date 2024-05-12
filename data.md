@@ -5,7 +5,7 @@
 
 - Data Sharing for demographic Research <https://www.icpsr.umich.edu/web/pages/DSDR/index.html>
 
-<!-- - Peking Open Research Data <https://opendata.pku.edu.cn/> -->
+- Peking Open Research Data <https://opendata.pku.edu.cn/>
 
 <!-- - Kaggle Datasets <https://www.kaggle.com/datasets/> The datas are usually uploaded by individuals. So the accuracy couldn't be permitted. But the datasets are various. -->
 
@@ -13,7 +13,7 @@
 
 <!-- - UCI machine learning dataset <https://archive.ics.uci.edu/ml/datasets.php> -->
 
-<!-- - Openicpsr <https://www.openicpsr.org/openicpsr/search/studies> -->
+- [Openicpsr](https://www.openicpsr.org/openicpsr/search/studies)
 
 <!-- -  Prof.Yuhua Huang personal Data :<https://scholar.harvard.edu/yuhuawang/data> includes Corruption Data, Chinese Listed Firms Personnel Database and some replication data from politics paper. By the way Prof.Yuhua Huang has great enthusiasm to help Chinese Social Science student to apply PhD especially in Politics. -->
 
@@ -41,7 +41,7 @@
 
 - [Nighttime Lights](http://www.richard-bluhm.com/wp-content/uploads/2020/02/Lecture-5-Nighttime-Lights-Bluhm.pdf) it's a guest lecture.
 
-- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page)
+- [Replication Wiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page)
 
 - [Find Econ Articles with Data](https://ejd.econ.mathematik.uni-ulm.de/)
 
@@ -72,3 +72,9 @@
 - <https://weiyangtham.com/publicgoods.html>
 
 - [U.S. SURVEY OF WORKING ARRANGEMENTS AND ATTITUDES (SWAA)](https://wfhresearch.com/data/)
+
+- [Democracy Data](https://xmarquez.github.io/democracyData/index.html)
+ 
+- [Economic-data](https://github.com/letsgoexploring/economic-data): Python programs for downloading economic data and constructing data sets. Contents of the main directories in this repo are described below.
+
+- [PSIDdatainR](https://github.com/floswald/psidR)

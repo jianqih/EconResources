@@ -4,7 +4,7 @@
 - [Toshimukoyama](https://sites.google.com/view/toshimukoyama/) also could find some nice [Lecture notes](https://sites.google.com/view/toshimukoyama/notes) on his website.
 - [Sovereign Default Reading List](https://www.gmihalache.com/teaching/sov-debt-and-default/)
 - [Mathieu Laurière](https://mlauriere.github.io/): MFG and ML
-- [aauclert](https://aauclert.people.stanford.edu/teaching)
+- [aauclert](https://aauclert.people.stanford.edu/teaching) 
 - [Den Haan](https://www.wouterdenhaan.com/notes.htm)
 - [Guido Menzio](https://wp.nyu.edu/guido_menzio/)
 - [Chad Jones](https://web.stanford.edu/~chadj/): growth.
@@ -17,3 +17,5 @@
 - [Issac Baley](https://www.isaacbaley.com/teaching.html)
 - [Pablo Winant](https://www.mosphere.fr/)
 - [Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/)
+- [Fedor Iskhakov](https://fedor.iskh.me/)
+- [Lilia Maliar](https://maliarl.people.stanford.edu/)
