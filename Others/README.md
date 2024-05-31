@@ -1,3 +1,11 @@
+# Miscellaneous
+
+- Fast way to create `README.md`: <https://readme.so/>
+
+
+
+
+
 ## Personal Website
 
 - Yan Liu(Wuhan U)<http://www.liuyanecon.com/misc/>
@@ -66,13 +74,13 @@
 
 ## Resources Set
 
-- <https://www.albrightalex.com/public-goods>
+- <https://www.albrightalex.com/public-goods>: Public goods by Alex Albright
 
-- [Advice on and resources for doing research](https://www.datanecon.org/links/research): collected by David Angenendt(TUM)
+- [Advice on and resources for doing research](https://www.datanecon.org/links/research): Collected by David Angenendt(TUM)
 
 - <https://jblevins.org/notes/>: jblevins's note
 
-- <https://weisi.website/resources/>: 上海科技大学助理教授司唯的资源集合
+- <https://weisi.website/resources/>: Wei Si (NYU-Shanghai) Resource collection. 
 
 - <http://www.ryanbedwards.com/resources>: the resources is mostly for students.
 

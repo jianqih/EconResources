@@ -42,7 +42,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - Dean Corbae(UWM) <https://sites.google.com/a/wisc.edu/deancorbae/teaching>
 
-- Jesusfv's website includes [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html) and [Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html) and Course on History.
+- Jesusfv's website includes a [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html) and [Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html).
 
 <!-- - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/> Banking -->
 
@@ -54,7 +54,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 ## Asset Pricing
 
-- François Gourio(Federal Reserve Bank of Chicago) Teaching Page <https://sites.google.com/site/fgourio/teaching-notes?authuser=0> including macro-asset pricing and PhD-level macroeconomics
+- François Gourio(Federal Reserve Bank of Chicago)  <https://sites.google.com/site/fgourio/teaching-notes?authuser=0>: including macro-asset pricing and PhD-level macroeconomics. 
 
 <!-- - <http://pfwang.people.ust.hk/Teaching.htm> -->
 
@@ -62,7 +62,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 <!-- - [Quantitative Investment](https://abzhaobo.github.io/courses/quant/) NKU -->
 
-- [Big data and Asset Pricing](https://www.lhpedersen.com/big-data-asset-pricing)
+- [Big Data and Asset Pricing](https://www.lhpedersen.com/big-data-asset-pricing) held by Lasse Heje Petersen. 
 
 - [Open Source Asset Pricing](https://www.openassetpricing.com/code/)
 
@@ -78,28 +78,27 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - [ec9c5 - topics in labor economics](https://christine-braun.github.io/teaching-labor.html)
 
-- [Search and Matching ](https://sites.google.com/site/jmarcrobin/teaching/search-matching): Jean-Marc Robin
+- [Search and Matching: Jean-Marc Robin
 
 - [Economics of the Family](https://abiadams.com/teaching/economics-of-the-family/)
 
-- [Household Behavior](https://sites.google.com/view/householdbehavior/home?authuser=0)
+- [Household Behavior](https://sites.google.com/view/householdbehavior/home?authuser=0) [Thomas H. Jørgensen](http://www.google.com/url?q=http%3A%2F%2Fwww.tjeconomics.com&sa=D&sntz=1&usg=AOvVaw2ZbvzC4yUDSiFw6Fq0wfqG)
 
-- [Unemployment](https://pascalmichaillat.org/c1/)
-- [Economic Slacks](https://pascalmichaillat.org/c2/)
-- [Business Cycles and How to Tame Them](https://pascalmichaillat.org/c5/)
-
-
+- [Unemployment](https://pascalmichaillat.org/c1/) Pascal Mihaillat 
+- [Economic Slacks](https://pascalmichaillat.org/c2/) Pascal Mihaillat 
+- [Business Cycles and How to Tame Them](https://pascalmichaillat.org/c5/)  Pascal Mihaillat 
 
 
-## Lecture note and textbook
 
-> The Published Textbooks are limited to printing right such that these could not be accessed the PDF files in a general way.
+## Lecture Notes and Textbook
+
+> The Published Textbooks are limited to printing rights such that these cannot be accessed the PDF files in a general way.
 - [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis)
-- [LS](http://libgen.rs/search.php?req=recursive+macroeconomic&open=0&res=25&view=simple&phrase=1&column=def)
+- [RMT](http://libgen.rs/search.php?req=recursive+macroeconomic&open=0&res=25&view=simple&phrase=1&column=def)
 - [SLP](http://libgen.rs/search.php?req=recursive+methods&open=0&res=25&view=simple&phrase=1&column=def)
 - [Monetary Policy, inflation, and the Business Cycle](http://libgen.rs/search.php?req=Monetary+Policy%2C+Inflation%2C+and+the+Business+Cycle&open=0&res=25&view=simple&phrase=1&column=def) The classic textbook in NK.
 - Applied Computational Economics and Finance
-- Economic Growth 
+- Economic Growth
 - Theory and numerical solution methods
 - Dynamic General Equilibrium Modeling.
 - Bayesian Estimation of DSGE 
@@ -107,19 +106,24 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - [Calculus of Variations and Partial Differential Equations](https://www.math.tecnico.ulisboa.pt/~dgomes/notas_calvar.pdf)
 - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/>
 - <https://press.princeton.edu/books/hardcover/9780691135052/the-economics-of-inaction> Nancy Stockey
-- Financial Modeling:A Backward Stochastic Differential Equations Perspective <https://link.springer.com/book/10.1007/978-3-642-37113-4>
+- Financial Modeling: A Backward Stochastic Differential Equations Perspective <https://link.springer.com/book/10.1007/978-3-642-37113-4>
 - Stochastic Controls: Hamiltonian Systems and HJB Equations <https://www.amazon.com/Stochastic-Controls-Hamiltonian-Equations-Probability/dp/0387987231>
 
+- [Lecture Notes on Information and Learning](https://www.anniehliang.com/lecture-notes) Annie Liang(NWU)
 
-### Mean Field Games 
+- [Lecture notes on International Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668578) Zhengyang Jiang(NWU)
+
+
+
+### Mean Field Games
 
 - <https://arxiv.org/abs/1509.02505>: The master equation and the convergence problem in mean field games
 - <https://arxiv.org/abs/2012.05237> Applications of Mean Field Games in Financial Engineering and Economic Theory
 - Ben Moll(LSE) <https://benjaminmoll.com/wp-content/uploads/2020/10/MFG_macro.pdf>
 - Adrien Bilal(Harvard) [ECONOMICS AND MEAN FIELD GAMES](https://sites.google.com/site/adrienbilal/teaching)
 - Weak solutions to the master equation of a potential mean field game <https://mathtube.org/lecture/video/weak-solutions-master-equation-potential-mean-field-game>
-Some related paper for the application of MFG in macroeconomics. [Solving Heterogeneous Agent Models with the Master Equation(Adrien Bilal)](https://drive.google.com/file/d/1yGOI_WWMnEIjJ8N4t1GVKowRxc-yRC7x/view), and Adrien Bilal and Esteban Rossi-Hansberg employ FAME for [Dynamic climate model](https://drive.google.com/file/d/1hpxdOdiT367Dn35n0LzKv4BmDuISHUHn/view)
-[ALS, ECMA(2023)](https://www.econometricsociety.org/publications/econometrica/2023/11/01/Price-Setting-with-Strategic-Complementarities-as-a-Mean-Field-Game) is alternative application of MFG in macroeconomics.
+Some related papers for the application of MFG in macroeconomics. [Solving Heterogeneous Agent Models with the Master Equation(Adrien Bilal)](https://drive.google.com/file/d/1yGOI_WWMnEIjJ8N4t1GVKowRxc-yRC7x/view), and Adrien Bilal and Esteban Rossi-Hansberg employ FAME for [Dynamic climate model](https://drive.google.com/file/d/1hpxdOdiT367Dn35n0LzKv4BmDuISHUHn/view)
+[ALS, ECMA(2023)](https://www.econometricsociety.org/publications/econometrica/2023/11/01/Price-Setting-with-Strategic-Complementarities-as-a-Mean-Field-Game) is the alternative application of MFG in macroeconomics.
 <https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2013.0397>
 
 ## Computational Economics
@@ -168,7 +172,7 @@ Some related paper for the application of MFG in macroeconomics. [Solving Hetero
 - Reading List in Macroeconomics and Monetary Economics <https://integdomain.files.wordpress.com/2014/07/monetary_list_v1-11.pdf>
 - [Scientific Research and Methodology](https://bookdown.org/pkaldunn/SRM-Textbook/) This book introduces quantitative research in the scientific and health disciplines. But it still works in other disciplines.
 - [ECON]
-- [Four Steps to an Applied Micro Paper](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
+- [Four Steps to an Applied MicroPaper](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
 - [writing suggesting](https://static1.squarespace.com/static/57d5edcf197aea51693538dc/t/5f975fd031e9ee561a6dbd19/1603755986109/writing_0.pdf), Ryan Edwards
 - [How to build an economic model in your spare time](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf), Hal Varian
 - [Math Course for Econ](http://www.tomsargent.com/math_courses_NYU.html) Tom Sargent.
