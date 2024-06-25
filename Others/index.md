@@ -1,24 +1,38 @@
 # Miscellaneous
 
+
 - Fast way to create `README.md`: <https://readme.so/>
 
 
+## Resources Set
 
+- <https://www.albrightalex.com/public-goods>: Public goods by Alex Albright
 
+- [Advice on and resources for doing research](https://www.datanecon.org/links/research): Collected by David Angenendt(TUM)
+
+- <https://jblevins.org/notes/>: jblevins's note
+
+- <https://weisi.website/resources/>: Wei Si (NYU-Shanghai) Resource collection. 
+
+- <http://www.ryanbedwards.com/resources>: the resources is mostly for students.
+
+- <https://sites.google.com/site/mkudamatsu/tips4economists>: Tips 4 Economists
+
+- Resources for PhD Students <http://li.dyson.cornell.edu/phdRes.php>
+
+- <http://jenniferdoleac.com/resources/>, Jennifer Doleac
+
+- <https://sites.google.com/view/hanye/useful-links> Useful links collected by Han Ye. 
+
+- <https://www.jdonna.org/resources> SOME USEFUL RESOURCES FOR Ph.D. STUDENTS
 
 ## Personal Website
 
-- Yan Liu(Wuhan U)<http://www.liuyanecon.com/misc/>
-
-- Alvin Roth <http://web.stanford.edu/~alroth/alroth.html>
-
-- [周其仁](http://www.zhouqiren.net/)
-
-- [Jichun Si](http://sijichun.pro/)
+- <https://sites.google.com/view/pkurlat/teaching> Some teaching notes. 
 
 - Leilei(SWUFE) dataset <https://sites.google.com/view/leileitilburg/resources/data-in-china>
 
-- Yiqing Xu(Stanford)<https://yiqingxu.org/> 
+<!-- - Yiqing Xu(Stanford)<https://yiqingxu.org/>  -->
 
 - <https://sites.google.com/site/mkudamatsu/home>: Prof.Masayuki Kudamatsu, the stata collection and [Devecondata](http://devecondata.blogspot.com/).
 
@@ -71,21 +85,3 @@
 - Economics and R <https://skranz.github.io/> the replication with Economic Top journal.
 
 - <https://deliasguidetoeconomics.blogspot.com/>
-
-## Resources Set
-
-- <https://www.albrightalex.com/public-goods>: Public goods by Alex Albright
-
-- [Advice on and resources for doing research](https://www.datanecon.org/links/research): Collected by David Angenendt(TUM)
-
-- <https://jblevins.org/notes/>: jblevins's note
-
-- <https://weisi.website/resources/>: Wei Si (NYU-Shanghai) Resource collection. 
-
-- <http://www.ryanbedwards.com/resources>: the resources is mostly for students.
-
-- <https://sites.google.com/site/mkudamatsu/tips4economists>: Tips 4 Economists
-
-- Resources for PhD Students <http://li.dyson.cornell.edu/phdRes.php>
-
-- <http://jenniferdoleac.com/resources/>, Jennifer Doleac

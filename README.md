@@ -77,46 +77,6 @@
 
 
 
-## Computer Science
-
-- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
-
-- Statistical-Rethinking <https://xcelab.net/rm/statistical-rethinking/> A Bayesian Course with R and Stan. It has the equipped video on [Youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI), It also appears on [Bilibili](https://www.bilibili.com/video/BV1ya411A7ih/?spm_id_from=333.999.0.0&vd_source=0d445853a6cc92430d2549ebde5dc52f)
-
-<!-- - Very Statisticious <https://aosmith.rbind.io/> -->
-
-- Deep Learning <https://d2l.ai/chapter_preface/index.html>
-
-- 神经网络与深度学习 <https://nndl.github.io/>: [邱锡鹏](https://xpqiu.github.io/)(复旦大学)
-
-- [Deep Learning DIY](https://dataflowr.github.io/website/) collecting resources to learn DL.
-
-- <https://lost-stats.github.io/> Library of Statistical Techniques (LOST)!
-
-- [Advanced Machine Learning](https://cs.nyu.edu/~mohri/aml21/)
-
-- [数据科学和机器学习](https://mlhowto.readthedocs.io/en/latest/index.html)
-
-- [Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial) stared on GitHub over 26k times.
-
-- [Tensorflow 2](https://github.com/ageron/tf2_course)
-
-- [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
-
-- [Deep Learning](https://github.com/MingchaoZhu/DeepLearning) 《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
-
-- [Advanced Machine Learning](https://cims.nyu.edu/~mohri/amls/)
-
-- Neural Network Class Video <https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH>
-
-- cs231<https://cs231n.github.io/>
-
-- ML with Graphs <https://web.stanford.edu/class/cs224w/>
-
-- Foundation of RL <https://wensun.github.io/CS6789_spring_2023.html>
-
-- [Programming Practices for Research in Economics(UZH 2018)](https://github.com/pp4rs/2018-uzh-course-material)
-
 ### Data Science
 <!-- - [Python for Data Analysis](https://wesmckinney.com/book/) -->
 
@@ -216,6 +176,8 @@
 
 - [Advanced Macro](https://tomasrm.github.io/teaching/advmacro/)
 
+- [Overlapping-generations (OG) Model](https://pslmodels.github.io/OG-Core/content/intro/intro.html)
+
 ## Micro
 
 - [Econ 711 Fall 2021 - Dan Quint](https://users.ssc.wisc.edu/~dquint/econ711%20fall%202021/Econ%20711%20F2021.htm)
@@ -238,6 +200,15 @@
 <!-- - [Advanced Econometric(Video)](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0): equipped material in <https://netcourse.xmu.edu.cn/ae/> Prof.Hong Yongmiao also teaches the "Probability and Statistics for Economist" -->
 
 - [Mathematical Statistics](https://pages.stat.wisc.edu/~shao/stat709/main.html)
+
+- [Econometrics](https://github.com/mcreel/Econometrics): First year graduate level econometrics notes with embedded examples using the Julia language.
+
+### Strcutural Estimation 
+
+- [Structural Analysis of Discrete Data and Econometric Applications](https://eml.berkeley.edu/%7Emcfadden/discrete.html) Textbook. 
+
+- [DSE2019](https://dseconf.org/dse2019)
+
 
 ## Trade and IO
 

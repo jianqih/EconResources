@@ -85,7 +85,9 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 - [Household Behavior](https://sites.google.com/view/householdbehavior/home?authuser=0) [Thomas H. Jørgensen](http://www.google.com/url?q=http%3A%2F%2Fwww.tjeconomics.com&sa=D&sntz=1&usg=AOvVaw2ZbvzC4yUDSiFw6Fq0wfqG)
 
 - [Unemployment](https://pascalmichaillat.org/c1/) Pascal Mihaillat 
+
 - [Economic Slacks](https://pascalmichaillat.org/c2/) Pascal Mihaillat 
+
 - [Business Cycles and How to Tame Them](https://pascalmichaillat.org/c5/)  Pascal Mihaillat 
 
 
@@ -127,6 +129,7 @@ Some related papers for the application of MFG in macroeconomics. [Solving Heter
 <https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2013.0397>
 
 ## Computational Economics
+
 - [Firm Dynamics(Phd 2014)](http://www.chrisedmond.net/phd2014.html) Chris Edmond(MelbourneU).
 - [Economic Growth(PhD 2021)](http://www.chrisedmond.net/phd2021.html) Chris Edmond(MelbourneU)
 - [Advanced Macroeconomics(honors/masters 2019)](http://www.chrisedmond.net/hons2019.html) Chris Edmond(MelbourneU)
@@ -138,6 +141,7 @@ Some related papers for the application of MFG in macroeconomics. [Solving Heter
 - [ResEcon703](https://github.com/woerman/ResEcon703/)
 - [Computational Methods for Economists using Python](https://opensourceecon.github.io/CompMethods/index.html)
 - [Computational Macroeconomics(UG)](https://github.com/letsgoexploring/computational-macroeconomics)
+
 ## Quantitative Macro Econ/ Micro data
 
 - Empirical Macro <https://eml.berkeley.edu/~enakamura/teaching.html> Emi Nakamura.
@@ -165,7 +169,6 @@ Some related papers for the application of MFG in macroeconomics. [Solving Heter
 - [Macro Dynamics](https://sites.google.com/site/gigipaciello/macro-dynamics?authuser=0)
 
 ## Others
-
 <!-- - Deep Learning Tutorial<http://ufldl.stanford.edu/tutorial/> -->
 <!-- - Understanding LSTM <https://colah.github.io/posts/2015-08-Understanding-LSTMs/> -->
 - <https://wp.nyu.edu/zhenhuan/resources/> collected by Leed Lei.
