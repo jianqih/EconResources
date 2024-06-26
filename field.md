@@ -52,7 +52,7 @@ These mainly some specific fields in Macroeconomics and Macro-Fiannce.
 
 - [UBC ECON622](https://ubcecon.github.io/ECON622/)
 
-## Asset Pricing
+### Asset Pricing
 
 - François Gourio(Federal Reserve Bank of Chicago)  <https://sites.google.com/site/fgourio/teaching-notes?authuser=0>: including macro-asset pricing and PhD-level macroeconomics. 
 
@@ -141,6 +141,7 @@ Some related papers for the application of MFG in macroeconomics. [Solving Heter
 - [ResEcon703](https://github.com/woerman/ResEcon703/)
 - [Computational Methods for Economists using Python](https://opensourceecon.github.io/CompMethods/index.html)
 - [Computational Macroeconomics(UG)](https://github.com/letsgoexploring/computational-macroeconomics)
+- [ECON622](https://github.com/ubcecon/ECON622): This is a graduate topics course in computational economics, with applications in datascience and machine learning. (Using Pytorch, JAX etc.)
 
 ## Quantitative Macro Econ/ Micro data
 

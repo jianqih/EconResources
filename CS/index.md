@@ -83,7 +83,7 @@
 
 - Anders Sundell(<https://www.stathelp.se/index_en.html> ): Stata tips and helps.
 
-- <https://julianreif.com/guide/> Stata coding guide.
+- <https://julianreif.com/guide/> Stata coding guide by Julian Reif.
 
 
 ### R
@@ -107,13 +107,24 @@ The online resources of `R` is vast because of the support of [bookdown](https:/
 
 ### Julia
 
+- [Julia for Begginers](https://www.youtube.com/playlist?list=PLhQ2JMBcfAsi_3g2AFJ6B84d8c5jw5kXp) Youtube. 
+
+- [Julia Programming For Nervous Beginners](https://www.youtube.com/playlist?list=PLP8iPy9hna6Qpx0MgGyElJ5qFlaIXYf1R)
+
+- [Modern Julia Workflows](https://modernjuliaworkflows.github.io/)
+
 <!-- - Julia中文文档 <https://docs.juliacn.com/latest/> -->
 
-- Dongfeng Li(PKU) <https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html>
+- <https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html> Dongfeng Li(PKU) 
 
 - Data-parallel Programming in Julia <https://juliafolds.github.io/data-parallelism/#data-parallel_programming_in_julia>
 
 - [Juliaplots](https://docs.juliaplots.org/latest/tutorial/)
+
+- [Using Julia for Introductory Statistics](https://jverzani.github.io/UsingJ/)
+
+<!-- - [Computational Economics](https://floswald.github.io/NumericalMethods/lecture1/) -->
+
 
 
 ### Python
