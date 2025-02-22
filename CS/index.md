@@ -14,13 +14,15 @@
 
 - Deep Learning <https://d2l.ai/chapter_preface/index.html>
 
-- 神经网络与深度学习 <https://nndl.github.io/>: [邱锡鹏](https://xpqiu.github.io/)(复旦大学)
+- Neural Network and Deep Learning <https://nndl.github.io/>: [邱锡鹏](https://xpqiu.github.io/)(FDU)
 
 - [Deep Learning DIY](https://dataflowr.github.io/website/) collecting resources to learn DL.
 
 - <https://lost-stats.github.io/> Library of Statistical Techniques (LOST)!
 
 - [Advanced Machine Learning](https://cs.nyu.edu/~mohri/aml21/)
+
+- [Understanding Deep Learning](https://github.com/xuzhiqin1990/understanding_dl.git) A lecture note for understanding deep learning by Zhiqing Xu.
 
 - [数据科学和机器学习](https://mlhowto.readthedocs.io/en/latest/index.html)
 
@@ -51,9 +53,9 @@
 
 - Coding for Economists <https://aeturrell.github.io/coding-for-economists>
 
-- The Missing Semester of Your CS Education（中文版）<https://missing-semester-cn.github.io/>: 强烈推荐，无论是任何专业的都需要学习了解一下。
+- The Missing Semester of Your CS Education（中文版）<https://missing-semester-cn.github.io/>: (Highly recommend)
 
-- <https://randrescastaneda.rbind.io/post/notepadpp/> Notepad++ as a Stata editor.
+- <https://randrescastaneda.rbind.io/post/notepadpp/> Notepad++ as a STATA editor.
 
 <!-- - [东海岸的雨](https://mp.weixin.qq.com/s?__biz=MzIyNzYzMTU1Mg==&mid=2247485480&idx=1&sn=7cc7eb58fa009e49448ebf93a604dfa5&chksm=e85f0087df28899169c14475b9db0c87382c7aaedaa4d24ef0f5322a65cc607036a543b0b4a7&scene=126&sessionid=1605496473&key=e746868e0bff7a6cece07a65db3af8041459f9643472fd4cb44ca4fef698eaeb858ff146bb2ef4ef34fcaba57e388766e1945d5e45e98e4e489d42301cc418e085ce22d62fcf274f10a10d41131f7d1c4bca37f564ce6bcdd1c70f927b53dc887c9bad5dda933c99d0cf2dd8df057ce06ee9d9483fd4d882437358a7560e6523&ascene=1&uin=MTQ2NTMzMzMwMQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AuetV39qbyezYSULwJ4KlwQ%3D&pass_ticket=27coS32I2rakUVjla%2B5an%2BYFJhZgtUpmjgitlYHx%2FCRtqJEQGroqJbaIms1M%2FPey&wx_header=0):编程建议集合，包含Stata、R、Python和LaTeX网上资源。 -->
 
@@ -75,7 +77,7 @@
 - A LaTeX Template for Economics Papers <https://github.com/cheinchi/Template-for-Overleaf>
 
 
-### Stata
+### STATA
 
 - <https://randrescastaneda.rbind.io/post/profile-do/>:Stata profile.do: nice tips.
 
@@ -84,6 +86,40 @@
 - Anders Sundell(<https://www.stathelp.se/index_en.html> ): Stata tips and helps.
 
 - <https://julianreif.com/guide/> Stata coding guide by Julian Reif.
+
+
+
+### Python
+
+<!-- - sklearn中文文档 <https://www.sklearncn.cn/> -->
+
+<!-- - python 实用教程 <https://github.com/shibing624/python-tutorial> -->
+
+- FinTech Toolbox <https://www.bilibili.com/video/BV1DE411y7nz/?spm_id_from=333.999.0.0> 
+
+- UseR/Python <https://sites.google.com/view/davidgabauer/use-rpython>
+
+### Julia
+
+- [Julia for Begginers](https://www.youtube.com/playlist?list=PLhQ2JMBcfAsi_3g2AFJ6B84d8c5jw5kXp)
+
+- [Julia语言入门](https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html)
+
+- [Julia Programming For Nervous Beginners](https://www.youtube.com/playlist?list=PLP8iPy9hna6Qpx0MgGyElJ5qFlaIXYf1R)
+
+- [Modern Julia Workflows](https://modernjuliaworkflows.github.io/)
+
+<!-- - Julia中文文档 <https://docs.juliacn.com/latest/> -->
+
+- <https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html> Dongfeng Li(PKU) 
+
+- Data-parallel Programming in Julia <https://juliafolds.github.io/data-parallelism/#data-parallel_programming_in_julia>
+
+- [Juliaplots](https://docs.juliaplots.org/latest/tutorial/)
+
+- [Using Julia for Introductory Statistics](https://jverzani.github.io/UsingJ/)
+
+<!-- - [Computational Economics](https://floswald.github.io/NumericalMethods/lecture1/) -->
 
 
 ### R
@@ -105,37 +141,7 @@ The online resources of `R` is vast because of the support of [bookdown](https:/
 
 - [EconR](http://www.econr.org/)
 
-### Julia
 
-- [Julia for Begginers](https://www.youtube.com/playlist?list=PLhQ2JMBcfAsi_3g2AFJ6B84d8c5jw5kXp) Youtube. 
-
-- [Julia Programming For Nervous Beginners](https://www.youtube.com/playlist?list=PLP8iPy9hna6Qpx0MgGyElJ5qFlaIXYf1R)
-
-- [Modern Julia Workflows](https://modernjuliaworkflows.github.io/)
-
-<!-- - Julia中文文档 <https://docs.juliacn.com/latest/> -->
-
-- <https://www.math.pku.edu.cn/teachers/lidf/docs/Julia/html/_book/index.html> Dongfeng Li(PKU) 
-
-- Data-parallel Programming in Julia <https://juliafolds.github.io/data-parallelism/#data-parallel_programming_in_julia>
-
-- [Juliaplots](https://docs.juliaplots.org/latest/tutorial/)
-
-- [Using Julia for Introductory Statistics](https://jverzani.github.io/UsingJ/)
-
-<!-- - [Computational Economics](https://floswald.github.io/NumericalMethods/lecture1/) -->
-
-
-
-### Python
-
-<!-- - sklearn中文文档 <https://www.sklearncn.cn/> -->
-
-<!-- - python 实用教程 <https://github.com/shibing624/python-tutorial> -->
-
-- FinTech Toolbox <https://www.bilibili.com/video/BV1DE411y7nz/?spm_id_from=333.999.0.0> 
-
-- UseR/Python <https://sites.google.com/view/davidgabauer/use-rpython>
 
 ### Matlab
 
