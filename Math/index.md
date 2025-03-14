@@ -14,7 +14,7 @@ Some related papers for the application of MFG in macroeconomics. [Solving Heter
 <https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2013.0397>
 
 
-### Continuous time model 
+### Continuous-Time models 
 - [Galo Nuno](https://www.galonuno.com/continuous-time-methods-in-macro.html)
 
 - [Continuous-Time Stochastic Dynamic Programming](https://shenghaozhu.weebly.com/uploads/2/3/0/5/23050810/dynamicoptimization-2016.pdf)

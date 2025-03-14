@@ -1,19 +1,3 @@
-These mainly some specific fields in Macroeconomics and Macro-Finance.
-
-> The classification may be overlapped.
-
-<!-- Speically thanks for the [collections](https://www.zhihu.com/search?type=content&q=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84lecturenote) on zhihu -->
-
-<!-- - EC702<https://github.com/amckay/EC702> -->
-<!-- - <https://github.com/KateSchneider-FoodPol/Stata-Regression-Teaching-Exercise> -->
-
-
-<!-- ## Heterogeneous Agents Model -->
-
-<!-- - <https://www.nber.org/conferences/heterogeneous-agent-macro-workshop-spring-2022> NBER Heteregenous-Agent Macro Workshop 2022 -->
-
-
-
 ## DSGE
 
 - <https://github.com/FRBNY-DSGE/DSGE.jl> DSGE in Julia
@@ -38,13 +22,9 @@ These mainly some specific fields in Macroeconomics and Macro-Finance.
 
 - <https://initiative.princeton.edu/macro-finance-online-summer-school/>
 
-<!-- - MARTIN ELLISON<https://users.ox.ac.uk/~exet2581/index.html> -->
-
 - Dean Corbae(UWM) <https://sites.google.com/a/wisc.edu/deancorbae/teaching>
 
 - Jesusfv's website includes a [Course on Computation](https://www.sas.upenn.edu/~jesusfv/teaching.html) and [Courses on Macroeconomics](https://www.sas.upenn.edu/~jesusfv/teaching.html).
-
-<!-- - <https://sites.bu.edu/perry/lectures/mb-lectures/section-1/> Banking -->
 
 - [Adrien Matray](https://sites.google.com/view/adrienmatray/teaching/)
 
@@ -55,12 +35,6 @@ These mainly some specific fields in Macroeconomics and Macro-Finance.
 ### Asset Pricing
 
 - François Gourio(Federal Reserve Bank of Chicago)  <https://sites.google.com/site/fgourio/teaching-notes?authuser=0>: including macro-asset pricing and PhD-level macroeconomics. 
-
-<!-- - <http://pfwang.people.ust.hk/Teaching.htm> -->
-
-<!-- - WuhanU FinTech <https://github.com/WHUFT>  -->
-
-<!-- - [Quantitative Investment](https://abzhaobo.github.io/courses/quant/) NKU -->
 
 - [Big Data and Asset Pricing](https://www.lhpedersen.com/big-data-asset-pricing) held by Lasse Heje Petersen. 
 
@@ -161,9 +135,6 @@ These mainly some specific fields in Macroeconomics and Macro-Finance.
 - [Macro Dynamics](https://sites.google.com/site/gigipaciello/macrodynamics)
 
 ## Others
-<!-- - Deep Learning Tutorial<http://ufldl.stanford.edu/tutorial/> -->
-<!-- - Understanding LSTM <https://colah.github.io/posts/2015-08-Understanding-LSTMs/> -->
-- <https://wp.nyu.edu/zhenhuan/resources/> collected by Leed Lei.
 - Reading List in Macroeconomics and Monetary Economics <https://integdomain.files.wordpress.com/2014/07/monetary_list_v1-11.pdf>
 - [Scientific Research and Methodology](https://bookdown.org/pkaldunn/SRM-Textbook/) This book introduces quantitative research in the scientific and health disciplines. But it still works in other disciplines.
 - [ECON]

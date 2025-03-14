@@ -1,2 +1,0 @@
-- [ECON-GA 2404](https://drive.google.com/file/d/1Wa8VIFYiCTC5GekcjpCp6a-CYqE_eRWw/view) Jess Benhabib
-- [Comp Econ](https://www.bhandarianmol.com/s/Syllabus-for-8185.docx) ANMOL BHANDARI

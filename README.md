@@ -2,38 +2,26 @@
 
 - It contains some useful resources in economics.
 
-<!-- - Based on the rapid development of computer and internet, we could discover various learning material on the internet. But it also needs to judge the quality and fitness of them when we are flooded with plenty of materials.  -->
-- Some resources are friendly with Mandarin-speaking users like me.
-<!-- - _last updated_: Dec. 2023 -->
-
 
 - The different fields can be found [here](field.md)
-
 - The collections for codes and coding skills can be found [here](codes.md)
-
 - The collections for data and some replication codes can be found [here](data.md)
-
-- Comments are welcome. `jianqihuang02 [at] gmail [dot] com`
 
 ## Causal Inference and Econometrics
 
-- [Causal Inference](https://mixtape.scunning.com/): Scott.
+- [Causal Inference](https://mixtape.scunning.com/) - Author: Scott.
 
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/): Containing R, Stata, and Python codes.
-
-<!-- - [Data Analysis for Economics](https://jiamingmao.github.io/data-analysis/): written by jiamingmao(XMU). it offers a unified introduction to the principles and methods of statistical modeling and causal inference. -->
 
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
 
 - [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/)
 
-- Applied Empirical Methods <https://github.com/paulgp/applied-methods-phd>: designed for graduate students learning econometric methods using empirical research.
+- Applied Empirical Methods <https://github.com/paulgp/applied-methods-phd>
 
 - [STAT 286/GOV 203](https://imai.fas.harvard.edu/teaching/cause.html?continueFlag=24735ab10d4dd300e3c62d40afafa8b0)
 
 - [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introFinRbook/)
-
-<!-- - 计量经济学讲义 <https://zhentaoshi.github.io/metrics1-cn/>：香港中文大学史震涛在香港和深圳授课高级计量讲义 -->
 
 - [Statistical Tools for Causal Inference](https://chabefer.github.io/STCI/) other useful resource given by writter is [here](https://sites.google.com/site/sylvainchabeferret/teaching)
 
@@ -56,7 +44,7 @@
 ## Math and Statistics
 
 - Statistical Inference via Data Science <https://moderndive.com/>
- 
+
 - Doing Bayesian Data Analysis <https://bookdown.org/content/3686/>
 
 - [STAT545](https://stat545.com/):Data wrangling, exploration, and analysis with R
@@ -73,17 +61,11 @@
 
 - [Applied Nonparametric and Modern Statistics](https://www.biostat.jhsph.edu/~ririzarr/Teaching/754/)
 
-- [应用随机过程](https://www.math.pku.edu.cn/teachers/lidf/course/stochproc/stochprocnotes/html/_book/index.html)：介绍随机过程的基本概念及鞅和在金融中的应用。
+- [应用随机过程](https://www.math.pku.edu.cn/teachers/lidf/course/stochproc/stochprocnotes/html/_book/index.html)
 
 
 
 ### Data Science
-<!-- - [Python for Data Analysis](https://wesmckinney.com/book/) -->
-
-<!-- - [R语言数据科学导论](https://ds-r.leovan.tech/) -->
-
-<!-- - [JavaScript for R](https://book.javascript-for-r.com/) -->
-
 - [Julia Data Science](https://juliadatascience.io/)
 
 - [Using Spatial Data with R](https://cengel.github.io/R-spatial/index.html): a quick introduction to spatial data with R.
@@ -96,79 +78,50 @@
 
 - [Methods for Network Analysis](https://bookdown.org/markhoff/social_network_analysis/)
 
-<!-- - [Geocomputation with R](https://geocompr.robinlovelace.net/) -->
-
-<!-- - [数据科学中的R语言](https://bookdown.org/wangminjie/R4DS/) -->
-
 - [Data Science for Economics and Finance](https://link.springer.com/book/10.1007/978-3-030-66891-4)
-
-- <https://socviz.co/index.html#preface> Data Visualization
-
+- <https://socviz.co/index.html#preface> - Data Visualization
 - <https://tellingstorieswithdata.com/> Telling stories with data.
-
 - [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/index.html)
-
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/)
-
-- [Data Science for Economists](https://github.com/uo-ec607/lectures): using R.
-
+- [Data Science for Economists](https://github.com/uo-ec607/lectures)
 - [Data Science for Economists and Other Animals](https://grantmcdermott.com/ds4e/index.html) introducing the core R usuage in Econ.
-
 - [Tidy Finance](www.tidy-finance.org/)
-
 - [R as GIS for Economists](https://tmieno2.github.io/R-as-GIS-for-Economists/)
-
 - [Computational Economics for PhDs](https://floswald.github.io/NumericalMethods/#replication_resources): using Julia in the field of economics is getting more and more popular. written by [Florian Oswald](https://floswald.github.io/). 
-
 - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/)
-
 - [Forecasting](https://otexts.com/fpp2/)
+- [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introcompfinr/) - Author: Eric Zivot
 
-- [Introduction to Computational Finance and Financial Econometrics with R](https://bookdown.org/compfinezbook/introcompfinr/) written by Eric Zivot
+- [Economic Networks THEORY AND COMPUTATION](https://networks.quantecon.org/) - Authors: John Stachurski and Thomas J.Sargent.
 
-- [金融时间序列讲义](https://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html)
+- [A Short Guide to Historical Newspaper Data, Using R](https://bookdown.org/yann_ryan/r-for-newspaper-data/)
 
-<!-- - [Openair](https://bookdown.org/david_carslaw/openair/) A Guide to the Analysis of Air Pollution Data. -->
-
-- [Economic Networks THEORY AND COMPUTATION](https://networks.quantecon.org/) written by John Stachurski and Thomas J.Sargent.
-
-<!-- 
-- [计算传播学](https://chengjun.github.io/mybook/) it's usin some computional and statistic tools to solve the social issues.
-
-- [A Short Guide to Historical Newspaper Data, Using R](https://bookdown.org/yann_ryan/r-for-newspaper-data/) -->
-
+- [Analyzing US census data](https://walker-data.com/census-r/index.html) 
+- [Openair](https://bookdown.org/david_carslaw/openair/) A Guide to the Analysis of Air Pollution Data.
+- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
+- https://praschky.github.io/pages/teaching.html
+- [PyGIS](https://pygis.io/)
 
 ## Lectures
 
-- Abhijit Banerjee and Esther Duflo’s online course at PSE <https://www.parisschoolofeconomics.eu/en/news/from-may-24-to-june-4-watch-abhijit-banerjee-and-esther-duflo-s-online-course/#partie1>
-
+- <https://www.parisschoolofeconomics.eu/en/news/from-may-24-to-june-4-watch-abhijit-banerjee-and-esther-duflo-s-online-course/#partie1>: Instructors: Abhijit Banerjee and Esther Duflo
 - Search and Matching in Macro and Finance Virtual Seminar Series <https://sammf.com/>
-
-- Useful ML tools for empirical researchers <https://www.nber.org/lecture/summer-institute-2018-meet-randomistas-useful-ml-tools-empirical-researchers> Development Economics Masters Lecture by [Esther Dulfo](https://economics.mit.edu/people/faculty/esther-duflo)
-
-- XMU has some lectures on Bilibili, like [The Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
-
-
-
-<!-- ## Lecture Notes
-
-- <http://econphd.econwiki.com/notes.htm>:  -->
+- Online Spatial and Urban Seminar <https://osus.info/> 
+- [Advanced Econometric](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0), [Introduction to Nonparametric Analysis in Time Series Econometrics](https://www.bilibili.com/video/BV1dp4y1S7G1/?spm_id_from=333.999.0.0).
 
 ## Macroeconomics
 
-- [Macroeconomics (FDU)](https://xuzhiwei09.wixsite.com/econ/macrotopics) Zhiwei Xu
-
-- [Lectures in Recursive Economic Dynamics](https://pgalbacs.wordpress.com/2023/07/05/lectures-in-recursive-economic-dynamics/): Peter Galbács
+- [Lectures in Recursive Economic Dynamics](https://pgalbacs.wordpress.com/2023/07/05/lectures-in-recursive-economic-dynamics/) - author: Peter Galbács
 
 - [ECON 7300 Tools for Applied Macro I(Cornell, Sp2017)](http://www.kris-nimark.net/Applied_Macro_2017.html)
 
-- [Advanced Macroeconomics I](https://sites.google.com/a/nyu.edu/advanced-macroeconomics-i/products-services) taught by Professor Gertler
+- [Advanced Macroeconomics I](https://sites.google.com/a/nyu.edu/advanced-macroeconomics-i/products-services) - Instructor: Professor Gertler
 
 - [Notes on Macroeconomic Theory(pdf)](http://www.econ.yale.edu/smith/econ510a/notes99.pdf)
 
 - [Macro Theory](https://sites.google.com/a/umn.edu/chari/teaching)
 
-- [Advanced Macroeconomics: Models with Heterogeneous Agents](https://www.sas.upenn.edu/~vr0j/oldteaching/uclec081-22/index.html) [José Víctor Ríos Rull](https://www.sas.upenn.edu/~vr0j/) and [Wei Cui](https://sites.google.com/site/weicuiweb/home)
+- [Advanced Macroeconomics: Models with Heterogeneous Agents](https://www.sas.upenn.edu/~vr0j/oldteaching/uclec081-22/index.html) - Instructors: [José Víctor Ríos Rull](https://www.sas.upenn.edu/~vr0j/) and [Wei Cui](https://sites.google.com/site/weicuiweb/home)
 
 - [Advanced macroeconomic analysis](https://www.jennifer-la-o.com/advanced-macroeconomic-analysis): [JENNIFER LA'O](https://www.jennifer-la-o.com/)(Columbia Business School)
 
@@ -178,7 +131,7 @@
 
 - [Overlapping-generations (OG) Model](https://pslmodels.github.io/OG-Core/content/intro/intro.html)
 
-## Micro
+## Micro and Game Theory
 
 - [Econ 711 Fall 2021 - Dan Quint](https://users.ssc.wisc.edu/~dquint/econ711%20fall%202021/Econ%20711%20F2021.htm)
 
@@ -188,16 +141,15 @@
 
 - <https://web.sas.upenn.edu/schorf/classes/> VAR estimation
 
-- [Forecasting: Principles and Practice](https://otexts.com/fpp2/): the classic book in time-series analysis.
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/): Classic book in time-series analysis.
 
 - [SVAR](https://sites.google.com/site/lkilian2019/textbook/preliminary-chapters)
 
-- [Graduate Macro Theory II](https://www3.nd.edu/~esims1/grad_macro_14.html) taught by Eric Sims(University of Notre Dame)
+- [Graduate Macro Theory II](https://www3.nd.edu/~esims1/grad_macro_14.html) - Instructor: Eric Sims(University of Notre Dame)
 
 - [The Econometrics of Unobservables](http://www.econ2.jhu.edu/People/Hu/Econometrics-of-Unobservables--Book.pdf)
 
 - [Hayashi Econometrics](https://sites.google.com/view/fumio-hayashis-hp/hayashi-econometrics)
-<!-- - [Advanced Econometric(Video)](https://www.bilibili.com/video/BV1LU4y1h7Nb/?spm_id_from=333.999.0.0): equipped material in <https://netcourse.xmu.edu.cn/ae/> Prof.Hong Yongmiao also teaches the "Probability and Statistics for Economist" -->
 
 - [Mathematical Statistics](https://pages.stat.wisc.edu/~shao/stat709/main.html)
 
@@ -212,19 +164,19 @@
 
 ## Trade and IO
 
-- [Advanced Topics in Trade](http://www.hwtang.com/teaching.html) taught by ​Heiwai Tang
+- [Advanced Topics in Trade](http://www.hwtang.com/teaching.html) - Instructor: Heiwai Tang.
 
-- [Quantitative Dynamic Model](https://sites.google.com/site/yixusite/econ881-32-quantitative-dynamic-model) taught by Daniel XU.
+- [Quantitative Dynamic Model](https://sites.google.com/site/yixusite/econ881-32-quantitative-dynamic-model) - Instructor: Daniel Xu. 
 
 - [Graduate Trade](https://sites.google.com/site/treballen/graduate-trade)
 
 - [QUANTITATIVE INTERNATIONAL TRADE(pdf)](https://www.dropbox.com/s/3rvgu6zd1mnzoiy/zw_quantitative_trade.pdf?dl=0)
 
-- [Empirical Methods for Industrial Organization](http://www.its.caltech.edu/~mshum/gradio/ioclass.html) taught by [Matthew Shum](http://www.its.caltech.edu/~mshum/)(Caltech).
+- [Empirical Methods for Industrial Organization](http://www.its.caltech.edu/~mshum/gradio/ioclass.html) - Instructor: [Matthew Shum](http://www.its.caltech.edu/~mshum/)(Caltech).
 
 - [EIO](https://sites.google.com/view/victoraguirregabiriaswebsite/teaching/phd-empirical-io)
 
-- [Organizational Economics II](https://sites.google.com/site/danielbarronecon/teaching) taught by Daniel Barron(Northwestern).
+- [Organizational Economics II](https://sites.google.com/site/danielbarronecon/teaching) - Instructor: Daniel Barron(Northwestern). 
 
 ## Other Fields
 
@@ -244,7 +196,7 @@
 
 - [Environmental Economics](https://github.com/rtol/Environmental-Economics)
 
-- [Political Economy of Development](https://bookdown.org/abezarescalderon/guide-ped/): it is a online book built by Bookdown, has some great material in development field.
+- [Political Economy of Development](https://bookdown.org/abezarescalderon/guide-ped/)
 
 - [Health Economics Teaching Materials Repository](https://www.ashecon.org/teaching-materials-repository/)
 
@@ -264,7 +216,7 @@
 
 - [Guidelines: Term paper](https://docs.google.com/document/d/1IKlheTnc2yjI3h6Rl5Njh3eqAHk6vcW8N26oDrpQo5w/edit)
 
-- <https://gregmankiw.blogspot.com/search?q=advice>: the research suggestions from Greg Mankiw.
+- <https://gregmankiw.blogspot.com/search?q=advice> author: Greg Mankiw.
 
 - <https://blogs.ubc.ca/khead/research/research-advice>: collected research advice by Keith Head.
 
@@ -294,6 +246,6 @@
 
 - Productivity and work habit <https://www.patrickbaylis.com/posts/2022-02-09-productivity/2022-02-09-productivity?continueFlag=5b129f8aac804b43a5524c23d36869e8>
 
-- [Resources on Computation](https://www.gmihalache.com/computation/#lectureNotes): Compiled by Gabriel Mihalache
+- [Resources on Computation](https://www.gmihalache.com/computation/#lectureNotes) - author: Gabriel Mihalache
 
 - [Jason Blevins's Notes](https://jblevins.org/notes/)
